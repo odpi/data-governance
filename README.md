@@ -7,4 +7,4 @@ The ODPi Data Governance PMC focuses on adoption by:
 * Supporting vendors wishing to support the open metadata and governance capability.
 * Supporting organizations to accelerate their data governance program through the open metadata and governance capability.
 
-This GitHub site is used for developing collateral.  To see our latest completed material, please visit: https://www.odpi.org/data-governance
+This GitHub site is used for developing collateral.  To see our latest completed material, please visit: https://www.odpi.org/projects/data-governance-pmc
