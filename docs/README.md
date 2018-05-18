@@ -1,3 +1,3 @@
 # Documentation
 
-* [Open Metadata and Governance](./Open%20Metadata%20and%20Governance)
+The documentation directory contains the published documentation files.
