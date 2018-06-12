@@ -1,4 +1,4 @@
-# Welcome to the ODPI's data-governance PMC GitHub wiki
+# Welcome to ODPi data-governance
 
 There is a lot going on in the field of data governance, due to the increased use of data intensive applications and the corresponding rise in regulations around safe data use.
 
