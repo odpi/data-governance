@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: Apache-2.0 -->
+
 # data-governance
 The ODPi Data Governance PMC develops collateral to encourage adoption of the open metadata and governance standards.  
 These standards are described on the Apache Atlas wiki here: https://cwiki.apache.org/confluence/display/ATLAS/Open+Metadata+and+Governance.
