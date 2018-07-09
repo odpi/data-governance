@@ -1,7 +1,12 @@
-# ODPi Data Governance Initiative (data-governance)
+<!-- SPDX-License-Identifier: Apache-2.0 -->
 
-The ODPi Data Governance Initiative aims to build valuable packages that install into the open metadata and governance capability provided through Apache Atlas.  (See https://cwiki.apache.org/confluence/display/ATLAS/Open+Metadata+and+Governance).
+# data-governance
+The ODPi Data Governance PMC develops collateral to encourage adoption of the open metadata and governance standards.  
+These standards are described on the Apache Atlas wiki here: https://cwiki.apache.org/confluence/display/ATLAS/Open+Metadata+and+Governance.
+The Apache Atlas open source project provides the reference implementation of these standards that are packaged into reusable libraries for vendors to include.  It also supports a full stack metadata repository.
 
-The aim of each package is to accelerate your organization's data governance initiatives by providing metadata content, APIs and UIs that target a specific industry need or regulation.  The content can then be customized for your organization once it is installed.
+The ODPi Data Governance PMC focuses on adoption by:
+* Supporting vendors wishing to support the open metadata and governance capability.
+* Supporting organizations to accelerate their data governance program through the open metadata and governance capability.
 
-The first package will be on data privacy.
+This GitHub site is used for developing collateral.  To see our latest completed material, please visit: https://www.odpi.org/projects/data-governance-pmc
