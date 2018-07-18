@@ -30,7 +30,7 @@ The pack will eventually support the following phases in the Privacy Officer's w
     
 * Reacting to/managing real privacy incidents as they occur.
 
-The initial phase is to 
+The initial phase is to identify the roles and activities around the lifecycle of a digital service.
 
 The data privacy pack is made up of documentation and pre-built metadata elements that can be
 loaded into an open metadata compliant repository and shared across an open metadata
