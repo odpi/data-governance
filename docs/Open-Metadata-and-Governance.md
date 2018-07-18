@@ -5,7 +5,7 @@ and reference implementation libraries to federate and exchange metadata in stan
 
 Today, if an organization wants to have a comprehensive metadata management and governance program to support their data driven agenda,
 they either have to restrict their operation to a single vendor's tools,
-or build bridges between different vendor tools to exchange metadata.
+or build bridges between different tools to exchange metadata.
 
 Open metadata and governance enables data tools, engines and platforms from different open source projects and vendors to share metadata
 and notifications - enabling a complete view of an organization's data assets while taking advantage of the appropiate best
@@ -16,9 +16,7 @@ get maximum use of its data whilst being compliant with all of the necessary reg
 These standards include APIs and event (notification) formats, frameworks for customization, a reference implementation and
 documentation to speed up vendor adoption since this is key to a successful ecosystem.
 
-The open metadata and governance standards assume that software products are bought and installed
-by communities within an organization for specific purposes (eg project, organizational function etc).
-The ecosystem needs to operate as a peer-to-peer network of metadata repositories with minimal centeralised infrastructure
+This ecosystem needs to operate as a peer-to-peer network of metadata repositories with minimal centeralised infrastructure
 to allow different parts of an organization to buy the products they need and still connect into the
 broader metadata exchange.  This allows the open metadata and governance ecosystem to grow within an organization
 without the need for centralised purchasing decisions and infrastructure.  
@@ -31,3 +29,5 @@ support the metadata management and governance of a small to medium enterprises 
 New vendor product can also be built using these servers (or the reference implementation libraries) since the vendor 
 is able take the open metadata and governance libraries
 as the basis of their product and plug-in their value add to create a new offering.
+
+The open metadata and governance technology is developed in the **[Egeria project](https://odpi.github.io/egeria/)**.
