@@ -1,6 +1,6 @@
 # open-metadata-compliance
 
-The base open metadata and governance capability is describes on the apache Atlas wiki: https://cwiki.apache.org/confluence/display/ATLAS/Open+Metadata+and+Governance
+The base open metadata and governance capability is described in **[Egeria](https://odpi.github.io/egeria/)**.
 
 Part of the compliance work is clear documentation on how to built compliant services and content.  The initial phase of work is to create 3 guides:
 
