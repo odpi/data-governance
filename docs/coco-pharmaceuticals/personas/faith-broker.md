@@ -13,7 +13,7 @@ Human Resources.
 Scope: Organization-wide
 
 Job:
-*Faith's main role is the director for Human Resources.
+* Faith's main role is the director for Human Resources.
 This is a new role for her and she is keen to improve
 the way employees are managed.
 * Prior to becoming HR director, she was a highly experienced auditor
