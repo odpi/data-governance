@@ -1,8 +1,16 @@
 # Welcome to ODPi data-governance
 
-There is a lot going on in the field of data governance, due to the increased use of data intensive applications and the corresponding rise in regulations around safe data use.
+There is a lot going on in the field of data governance,
+due to the increased use of data intensive applications and
+the corresponding rise in regulations around safe data use.
 
-The Data Governance PMC is seeking to help organizations adopt good data governance practices through the use of open data tools, engines and data management platforms.  These technologies may be from different vendors but they are able to exchange metadata and manage cross-enterprise data goverance through the use of the [Open Metadata and Governance Open Source capability](https://odpi.github.io/data-governance/Open-Metadata-and-Governance).  
+The Data Governance PMC is seeking to help organizations
+adopt good data governance practices through the use of open
+data tools, engines and data management platforms.
+These technologies may be from different vendors but they
+are able to exchange metadata and manage cross-enterprise
+data governance through the use of Egeria
+[Open Metadata and Governance Open Source capability](https://odpi.github.io/data-governance/Open-Metadata-and-Governance).  
 
 It also seeks to help vendors adopt the open metadata and governance capability in their software products to improve their data management capabilities through an open and integrated ecosystem. 
 
