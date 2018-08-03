@@ -2,11 +2,11 @@
 
 # data-governance
 The ODPi Data Governance PMC develops collateral to encourage adoption of the open metadata and governance standards.  
-These standards are described on the Apache Atlas wiki here: https://cwiki.apache.org/confluence/display/ATLAS/Open+Metadata+and+Governance.
-The Apache Atlas open source project provides the reference implementation of these standards that are packaged into reusable libraries for vendors to include.  It also supports a full stack metadata repository.
+These standards are provided through the ODPi Egeria open source project.
+Egeria provides the reference implementation of these standards that are packaged into reusable libraries for vendors to include.  
 
 The ODPi Data Governance PMC focuses on adoption by:
 * Supporting vendors wishing to support the open metadata and governance capability.
-* Supporting organizations to accelerate their data governance program through the open metadata and governance capability.
+* Providing governance best practices that help to accelerate an organization's data governance program through adoption of open metadata and governance.
 
-This GitHub site is used for developing collateral.  To see our latest completed material, please visit: https://www.odpi.org/projects/data-governance-pmc
+This GitHub site is used for developing collateral.  To see our latest completed material, see [Data Governance Best Practices](https://odpi.github.io/data-governance/).
