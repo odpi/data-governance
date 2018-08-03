@@ -1,8 +1,8 @@
 <!-- SPDX-License-Identifier: Apache-2.0 -->
 
-# Privacy Officer Role
+# Data Subject Role
 
-![Icon](privacy-officer-role.png)
+![Icon](data-subject-role.png)
 
 The data subject is the person that personal data is about.
 
