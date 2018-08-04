@@ -24,3 +24,7 @@ Privacy regulations such as the EU's General Data Protection Regulation require 
 processing personal data with the consent of the **[data subject](https://odpi.github.io/data-governance/roles/data-subject-role.html)**.
 This means an organization needs to understand
 and manage the personal data consummed by their digital services.
+
+## Further Information
+
+* [The lifecycle of a digital service](https://odpi.github.io/data-governance/digital-services/digital-service-lifecycle)
