@@ -3,7 +3,7 @@
 
 The **ODPi Data Privacy Pack** provides best practices and related content to assist an organization in creating a data privacy
 program and implementing it across its operations.  The contents are written for the organization's
-**[privacy officer](https://odpi.github.io/data-governance/roles/privacy-officer-role.html).
+**[privacy officer](https://odpi.github.io/data-governance/roles/privacy-officer-role.html)**.
 This is the person responsible for defining the privacy policies and ensuring they are implemented and followed.
 
 ## Why is a data privacy program important?
@@ -31,7 +31,7 @@ roles within the organization will change.
 
 ## What does having a data privacy program entail?
 
-A data privacy program ensures that an organization processes data about individuals (or data that may identify an individual) with
+A data privacy program ensures that an organization processes data about an individual (or data that may identify an individual) with
 respect to that individual's wishes, whilst ensuring that minimal data is used and retained for this processing and 
 it is propertly protected so an unauthorized third party can not access it for their own purposes.
 
@@ -42,7 +42,7 @@ Within the personal data category is **sensitive persional data** which requires
 
 * Documenting where personal data is stored and used.
 
-* Validating that all processing of personal data is with consent of the individula concerned (called the data subject).
+* Validating that all processing of personal data is with consent of the individual concerned (called the [data subject](https://odpi.github.io/data-governance/roles/data-subject-role.html)).
 
 * Creating, implementing and enforcing governance controls that ensure any changes to the processing of
 personal data are recorded and validated according to the privacy policies.
@@ -84,22 +84,22 @@ deploy and operate the digital service in a way that ensures data privacy is res
 ![Figure 1](digital-service-lifecycle-with-data-privacy-controls.png)
 **Figure 1:** The additional steps needed to manage data privacy throught the digital service's lifecycle
 
-* Data Value Assessment - review of the types of data expected to be captured and why they are needed
-* Data Processing Impact Assessment - review of the likely impact on an individual (data subject) if their data is processed
+* **Data Value Assessment** - review of the types of data expected to be captured and why they are needed
+* **Data Processing Impact Assessment** - review of the likely impact on an individual (data subject) if their data is processed
 by this digital service.
-* Data Processing Description - details ofthe data usage within a digital service.
-* Data Processing Certification - certifies that the data processing description for the digtial service accurately reflects
+* **Data Processing Description** - details ofthe data usage within a digital service.
+* **Data Processing Certification** - certifies that the data processing description for the digtial service accurately reflects
 its processing.
-* Security Certification - certifies that the infrastructure where the digital service will run is complianct with the
+* **Security Certification** - certifies that the infrastructure where the digital service will run is complianct with the
 appropiate security standards.
-* Contract including Minimal Data Processing Descriptions - these are the terms and conditions that an individual signs up to when
+* **Contract including Minimal Data Processing Descriptions** - these are the terms and conditions that an individual signs up to when
 they enroll with the service.  This determines the **legitimate interest** of the digital service, which effectively states
 that this is the minimal use of personal data that the digital service needs to operate.
-* Data Use Report shows the audit report of the data use for the data subject (and/or data controller if this service
+* **Data Use Report** shows the audit report of the data use for the data subject (and/or data controller if this service
 is a data processor.)
-* Personal Data Management - provides the controls for a data subject to exercise their rights.
-* Data Export - Data subjects have the right to request their data stored by your digital services.
-* Suspicious Activity Report - describes some activity that needs investigating.
-* Data Breach Report - describes a dara creach - what happened and the steps to recover from it.
-* Data Breach Impact Assessment - covers the impact of the data breach on the data subjects involved.
+* **Personal Data Management** - provides the controls for a data subject to exercise their rights.
+* **Data Export** - Data subjects have the right to request their data stored by your digital services.
+* **Suspicious Activity Report** - describes some activity that needs investigating.
+* **Data Breach Report** - describes a dara creach - what happened and the steps to recover from it.
+* **Data Breach Impact Assessment** - covers the impact of the data breach on the data subjects involved.
 
