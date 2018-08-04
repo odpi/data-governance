@@ -12,7 +12,7 @@ from consumers for access to their data.
 
 Figure 1 shows the lifecycle of a digital service.  The stages shown are described below the figure.
 
-![Figure 1](digital-service-lifecycle-stages)
+![Figure 1](digital-service-lifecycle-stages.png)
 
 **Figure 1**: The lifecycle of a digital service
 
@@ -39,7 +39,7 @@ correct action and an audit history to be maintained throughout the lifetime of 
 
 Figure 2 shows the metadata repository in place.
 
-![Figure 2](digital-service-lifecycle-stages-with-metadata-repository)
+![Figure 2](digital-service-lifecycle-stages-with-metadata-repository.png)
 
 **Figure 2**: Using a metadata repository to manage the lifecycle of a digital service
 
