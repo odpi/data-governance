@@ -4,7 +4,7 @@
 Every **[digital service](https://odpi.github.io/data-governance/digital-services/)** has a lifecycle that takes it from
 a good idea, to a running service that is repeatedly enhanced until the service is decommissioned and shutdown.
 
-While the service is running, it is processing requests from its consumers, sending requires to the digital services that
+While the service is running, it is processing requests from its consumers, sending requests to the digital services that
 it is dependent on and typically accumulating data.
 
 There may also be incidents, such as service outages and data breaches occuring while the service is running and also requests
@@ -44,4 +44,4 @@ Figure 2 shows the metadata repository in place.
 **Figure 2**: Using a metadata repository to manage the lifecycle of a digital service
 
 The open metadata types includes the definition of a digital service entity.
-This is used in the data privacy pack.
+This is used in the [data privacy pack](https://odpi.github.io/data-governance/data-privacy-pack/).
