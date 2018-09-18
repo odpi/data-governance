@@ -6,6 +6,7 @@ The scenarios follow the Coco Pharmaceutical personas as they work to
 set up their new roles and meet the challenges their new responsibilities
 bring.
 
+* Building the governace team
 * Defining the data strategy
 * Setting up the data governance program
 * Investigating suspicious activity
