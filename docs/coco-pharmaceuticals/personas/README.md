@@ -61,6 +61,13 @@ to help with their development of the new personalized medicine capabilities.
 * [Lemmie Stage](lemmie-stage.md) - DataStage Specialist
 
 
+## Manufacturing
+
+Coco Pharmaceuticals has its own manufacturing plant.  Stew Faster is the manager of the plant.
+
+* [Stew Faster](stew-faster.md) - Manufacturing Manager
+
+
 ## Clinical trials team
 
 These personas are involved in the clinical trial for a new cancer
