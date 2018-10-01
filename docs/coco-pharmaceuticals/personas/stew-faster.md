@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: Apache-2.0 -->
-<!-- Copyright Contributors to the Egeria project. -->
+<!-- Copyright Contributors to the ODPi Data Governance project. -->
 # Stew Faster - Manufacturing Manager
 
 ![Icon](stew-faster.png)
