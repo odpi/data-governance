@@ -22,7 +22,7 @@ Peter reminds Erin that they worked on an enterprise information model (EIM) a f
 > Figure 1: Data domains from Coco Pharmaceutical’s existing EIM
 
 The EIM turned out to be a good reflection of today’s business since there is a clear separation between the
-data used in the product development and research work that [Tessa Tube](tessa-tube.md) leads, the sales process,
+data used in the product development and research work that [Tessa Tube](../../personas/tessa-tube.md) leads, the sales process,
 manufacturing and finance.
 
 They compared this model with the catalog of systems that [Gary Geeke](../../personas/gary-geeke.md) has created as part of his
@@ -89,6 +89,6 @@ It challenged nothing in the status quo.
 The new subject area model has drawn out the most important subject areas for the business that need
 focus and attention now.
 
-![Figure 1](coco-pharmaceuticals-core-subject-areas.png)
-> Figure 1: Coco Pharmaceutical’s new candidate subject area model
+![Figure 2](coco-pharmaceuticals-core-subject-areas.png)
+> Figure 2: Coco Pharmaceutical’s new candidate subject area model
 
