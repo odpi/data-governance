@@ -22,7 +22,7 @@ In this scenario we walk through the steps that Jules takes
 to set up a governance program for Coco Pharmaceuticals.
 This includes:
 
-* Taking an inventory of the subject areas of data
+* [Taking an inventory of the subject areas](../defining-subject-areas/README.md) of data
 that the company uses and the major systems where each occurs.
 
 * Defining classification schemes for information, technology
