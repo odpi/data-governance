@@ -28,11 +28,3 @@ The diagrams that have been created are :
 #####xml file name : Egeria-cocoCohort-for-demo-v1.xml 
 #####Description : In memory demo cohort picture 
 ![Egeria cohort for in memory demo v1](Egeria-cocoCohort-for-demo-v1.png) 
-
-
-
-
-
-
-
- 
