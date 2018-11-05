@@ -2,7 +2,7 @@
 <!-- Copyright Contributors to the ODPi Data Governance project. -->
 # Defining Subject Areas
 
-Jules asks Erin for a list of the key subject areas managed by the IT systems today.
+[Jules Keeper](../../personas/jules-keeper.md) asks [Erin Overview](../../personas/erin-overview.md) for a list of the key subject areas managed by the IT systems today.
 
 To be sure she understands, Erin asks Jules what he means by “subject area” - Jules says - the different topics of data.
 
