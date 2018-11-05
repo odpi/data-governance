@@ -33,7 +33,7 @@ The purpose of the data strategy is to identify and plan how data can transform 
 
 In Coco Pharmaceutical's case they need to reduce cycle times across business.  Data needs to be exchanged between different parts of the business as triggers for the different lifecycles.   New types of data needs to be collected, managed and used - all of this this implies an investment in new systems.
 
-Jules realizes there is a lot to do!  He creates a siple framework that organizes what needs to be done into understandable chunks that can be delivered and measured incrementally.  Figure 1 shows his first attempt.
+Jules realizes there is a lot to do!  He creates a simple framework that organizes what needs to be done into understandable chunks that can be delivered and measured incrementally.  Figure 1 shows his first attempt.
 
 ![Figure 1](data-strategy-framework.png)
 > Figure 1: Data Strategy Framework
