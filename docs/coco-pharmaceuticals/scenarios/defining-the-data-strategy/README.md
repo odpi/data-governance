@@ -35,6 +35,7 @@ In Coco Pharmaceutical's case they need to reduce cycle times across business.  
 Jules realizes there is a lot to do!  He creates a siple framework that organizes what needs to be done into understandable chunks that can be delivered and measured incrementally.  Figure 1 shows his first attempt.
 
 ![Figure 1](data-strategy-framework.png)
+> Figure 1: Data Strategy Framework
 
 He feels the names of the framework could be improved, but it essentially covers the major building blocks:
 
