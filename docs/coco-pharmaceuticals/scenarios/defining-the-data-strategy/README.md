@@ -2,7 +2,9 @@
 <!-- Copyright Contributors to the ODPi Data Governance project. -->
 # Defining the data strategy - "better data for everyone"
 
-The fundamental question behind any data strategy is **"How can data assist the organization in delivering its business strategy?"**
+The fundamental question behind any data strategy is:
+
+             How can data assist the organization in delivering its business strategy?
 
 The business strategy may be to move into a new geography, radically change its operations to meet competitive challenges or to develop a new product line.
 Whatever the direction of the business strategy, there is always an element of internal business transformation and a need for information about the new territory that the business strategy embraces.
@@ -12,10 +14,9 @@ Whatever the direction of the business strategy, there is always an element of i
 During his first few weeks at Coco Pharmaceuticals, Jules spent his time understanding the workings of the business and the impact of the new business strategy of moving towards personalised medicine.
 
 To date they have developed one new personalised treatment that is designed for patients with a specific genomic marker.
-
-From this first step they have noticed:
-* The research cycle is quicker since developing proof of a drug's efficacy was simpler.
-* Since the new drug is only designed for a subset of patients, the hospitals are not willing to order big batches of the drug.   They are looking for a more on-demand ordering model.
+The impact on the business was as follows:
+* The research cycle was quicker since developing proof of a drug's efficacy was simpler.
+* Since the new drug was only designed for a subset of patients, the hospitals are not willing to order big batches of the drug.   They are looking for a more on-demand ordering model.
 * The manufacturing team realized that they will need to operate a hybrid model where all existing drugs are manufactured according to the existing batch processes, and the new drugs need more agile planning, manufacturing and delivery processes.  This has a knock on effect to their suppliers and finance.
 
 As Jules dug deeper he noticed that the exchange of data between different parts of Coco Pharmaceuticals was pretty minimal, focused on the regularly scheduled processing of orders, manufacturing and deliveries.  Going forward, Jules could see that key people in Coco Pharmaceuticals are going to need accurate real-time data that helps them manage a dynamic and constantly changing business.
@@ -51,3 +52,11 @@ Jules shares this framework with the board and his peers.  They are cautiously s
 
 Jules is not discouraged by the feedback - in fact, he is pleased that his colleagues have openly expressed their concerns so he can work with them to ensure the right compromises between evolution and tradition are maintained.
 
+He begins to work on the next level of detail:
+
+* [Planning for common definitions](../planning-for-common-data-definitions/README.md)
+* [Defining the new data-driven systems architecture overview](../defining-new-systems-architecture-overview/README.md)
+* [Defining the key information supply chains](../defining-information-supply-chains/README.md)
+* [Defining what is meant by continuous analytics](../defining-continuous-analytics/README.md)
+* [Defining how employees can be data-enabled](../defining-data-enabled-employees/README.md)
+* [Defining why a multi-faceted governance model is needed](../defining-multi-faceted-governance/README.md)
