@@ -1,20 +1,23 @@
-OMRS Repository-to-Repository Demonstration
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+<!-- Copyright Contributors to the ODPi Data Governance project. -->
 
-Objective:   		
+# OMRS Repository-to-Repository Demonstration
+
+## Objective:   		
 
 To illustrate metadata sharing between repositories and support both a "technical" and "business benefits" viewpoint.  
 Requirements:	At a high level, this demo will be an asset that supports live and recorded demos, with the potential to be repeated in downloadable vm's or in a cloud demo environment (licensing issues to be determined, and will probably depend on eventually having multiple versions of this demo ....Atlas - Atlas, IGC - IGC, IGC - Atlas, etc).  The demo has to be brief and illustrate bi-directional sharing of technical and business metadata.   Demo (for a recording) needs to be less than ten minutes in length, preferably less than 6 or 8.   "In person" live demos can be longer and dive deeper.
 
-Source:		
+## Source:		
 
 Per last week's meeting, and David's suggestion, artifacts and storyboard will be inspired by the ODPi Data Governance PMC Privacy Pack and also Coco Pharmaceuticals.
 
-Capabilities:		
+## Capabilities:		
 
 OMRS is limited at this point in its early release to RDBMS and Business Term artifacts.  This demo will focus on the sharing of newly ingested database tables and columns, newly created and existing business terms, and their assignment to a database table and/or column(s).  However, as OMRS matures, other metadata types and relationships can be added. 
 
 
-Demo Scenario
+## Demo Scenario
 
 The script describes two personna that are important to GDPR and Data Privacy Management.    An "Asset Owner" and a "Data Privacy Officer".    They will be described  as working at Coco Pharmaceuticals (see other links in the project, such as https://github.com/odpi/data-governance/tree/master/data-privacy-pack and https://github.com/odpi/data-governance/tree/master/docs/coco-pharmaceuticals), where the Data Privacy Officer is responsible for evaluating new systems and application offerings, setting privacy policies, and leading data privacy assessments, and the Asset Owner being someone with responsibility/ownership/management of a new offering for customers/new business, etc. [proposed participants for the demo script will be "Faith" (Data Privacy Officer) and then Erin, Tessa and Jules, as team members with architecture or data steward responsibility surrounding clinical research]. The demo script won't have time to go into deep detail on their roles, but will establish their positions and responsibilities. The Asset Owner is part of a team that is proposing and building, or soon to deploy, a mobile clinical trials application for monitoring drug use.   Before the application can be approved, it must first be reviewed by the Data Privacy team.   How extensive that review is, and whether a detailed Privacy Impact Assessment must be scheduled, is the responsibility of the Data Privacy Officer.  
 
