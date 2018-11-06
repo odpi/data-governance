@@ -1,5 +1,6 @@
-<!-- SPDX-License-Identifier: Apache-2.0 -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
 <!-- Copyright Contributors to the ODPi Data Governance project. -->
+
 # Defining the data strategy - "better data for everyone"
 
 The fundamental question behind any data strategy is:
