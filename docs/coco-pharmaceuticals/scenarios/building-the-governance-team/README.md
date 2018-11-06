@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Data Governance project. -->
 
 # Building the governance team
 
