@@ -1,4 +1,6 @@
-<!-- SPDX-License-Identifier: Apache-2.0 -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+<!-- Copyright Contributors to the ODPi Data Governance project. -->
+
 # Digital Service Lifecycle
 
 Every **[digital service](https://odpi.github.io/data-governance/digital-services/)** has a lifecycle that takes it from
