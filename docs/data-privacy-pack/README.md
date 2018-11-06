@@ -1,4 +1,6 @@
-<!-- SPDX-License-Identifier: Apache-2.0 -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+<!-- Copyright Contributors to the ODPi Data Governance project. -->
+
 # The ODPi Data Privacy Pack
 
 The **ODPi Data Privacy Pack** provides best practices and related content to assist an organization in creating a data privacy
@@ -82,7 +84,7 @@ as the digital service is developed in the most cost effective manner and use th
 deploy and operate the digital service in a way that ensures data privacy is respected.
 
 ![Figure 1](digital-service-lifecycle-with-data-privacy-controls.png)
-**Figure 1:** The additional steps needed to manage data privacy throught the digital service's lifecycle
+> Figure 1: The additional steps needed to manage data privacy throught the digital service's lifecycle
 
 * **Data Value Assessment** - review of the types of data expected to be captured and why they are needed
 * **Data Processing Impact Assessment** - review of the likely impact on an individual (data subject) if their data is processed
