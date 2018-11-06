@@ -1,4 +1,7 @@
-# build-content-packs
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+<!-- Copyright Contributors to the ODPi Data Governance project. -->
+
+# Building content packs whitepaper proposal
 
 The paper describing how to create a content pack includes these sections:
 
