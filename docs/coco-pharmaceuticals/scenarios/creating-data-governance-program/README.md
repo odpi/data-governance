@@ -1,4 +1,5 @@
-<!-- SPDX-License-Identifier: Apache-2.0 -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+<!-- Copyright Contributors to the ODPi Data Governance project. -->
 
 # Creating a data governance program
 
@@ -21,9 +22,6 @@ focused approach to information governance - and so Jules was appointed CDO.
 In this scenario we walk through the steps that Jules takes
 to set up a governance program for Coco Pharmaceuticals.
 This includes:
-
-* [Taking an inventory of the subject areas](../defining-subject-areas/README.md) of data
-that the company uses and the major systems where each occurs.
 
 * Defining classification schemes for information, technology
 capability, roles and activities.
