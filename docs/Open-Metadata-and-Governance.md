@@ -1,3 +1,6 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+<!-- Copyright Contributors to the ODPi Data Governance project. -->
+
 # Open Metadata and Governance
 
 Open metadata and governance creates an open enterprise-wide metadata management and governance capability by providing open standards
