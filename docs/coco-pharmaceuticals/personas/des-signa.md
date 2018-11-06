@@ -23,7 +23,7 @@ their mobile clinical trial apps.
 Thinks/Feels:
 Des believes systems should be designed for people – not
 just to perform a function.
-He is a passionate believer in IBM Design Thinking.
+He is a passionate believer in [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking).
 
 Hears:
 Concerns that mobile applications are not secure and can not
