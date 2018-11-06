@@ -14,7 +14,7 @@ Typically the common data definitions consist of:
 * Preferred logical and physical data formats for storing data about these concepts.
 
 The common data definitions are managed in a metadata catalog.  Governance classifications may be
-added to these definitions wich in turn link to governance requirements.
+added to these definitions which in turn link to governance requirements.
 
 Tools used by the organizaton to, for example, create new data stores, data visualizations, or APIs,
 or analytics models are pre-populated with concrete data definitions by
