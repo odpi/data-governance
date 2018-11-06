@@ -3,4 +3,4 @@
 
 # Florence Paynter
 
-![Icon](florence-painter.png)
+![Icon](florence-paynter.png)
