@@ -59,6 +59,7 @@ governance in the production systems.
 
 ## Further information
 
+* [Open metadata for common data definitions](open-metadata-for-common-definitions.md)
 * [Common Information Models for an open, analytical and agile world](http://www.ibmpressbooks.com/store/common-information-models-for-an-open-analytical-and-9780133366341)
 
 
