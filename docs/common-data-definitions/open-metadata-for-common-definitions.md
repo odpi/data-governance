@@ -40,15 +40,42 @@ the data values stored if they can be matched to a data class.
 
 ## Schemas
 
+Schemas document the structure of data, whether it is stored or moving through APIs, events and data feeds.
+There is a **schema type** that describes a reusable schema.
+It may be a single primitive field, a set of values, an array of values,
+a map between two sets of values or a nested structure.
+The nested structure is the most common.
+In this case the the schema type has a list of schema attributes that describe the fields in the structure.
+Each of these attributes has its own schema type that may be primitive, array, set, map or structure in turn.
+
+Figure 3 shows a simple structure schema.
+
 ![Figure 3](semantic-to-implementation-schemas.png)
 > Figure 3: Schemas for documenting the structure of data
 
 ## Schemas and assets
 
+Since schema types describe the structure of data, they can be attached to assets to indicate that this asset's data
+is organized as described by the schema.
+A single schema type can be attached to multiple assets to show these asset all have data with the same structure
+(but not necessarily the same data values).
+
 ![Figure 4](semantic-to-implementation-assets-and-schemas.png)
 > Figure 4: Assets for documenting the organization's important data assets
 
 ## Connectors and connections
+
+Assets are accessed through connectors.  A Connector is a client library that applications use to access
+the asset across the network.  Typically there is a specialized connector for each type of Asset.
+Sometimes there are multiple connectors to access a specific type of asset, each offering a different interface for
+the application to use.
+
+Instances of connectors are created using the **Connector Broker**.  The connector broker creates the connector
+instance using the information stored in a **Connection** object.  These can be created by the application
+or retrieved from the metadata repositories.
+
+A connection object is stored in the metadata repository, it is typically linked to the asset that is accessed
+by the connector that the connection describes.
 
 ![Figure 5](semantic-to-implementation-connectors.png)
 > Figure 5: Connection information needed to access the data held by an asset
