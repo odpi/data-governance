@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 <!-- Copyright Contributors to the ODPi Data Governance project. -->
 
-# Digtial Services
+# Digital Services
 
 A **digital service** is an automated service delivered via the Internet or private network.
 
