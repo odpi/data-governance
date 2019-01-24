@@ -4,7 +4,7 @@
 # Data Awareness
 
 ![Figure 1](governance-maturity-model-Data-Awareness.png)
-> **Figure 1:** Capabilities needed to acheve Data Awareness
+> **Figure 1:** Capabilities needed to achieve Data Awareness
 
 
 ----
