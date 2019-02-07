@@ -13,10 +13,11 @@ or the data elements descriptions where they exist.
 
 The governance classifications each define a list of governance requirements for different situations.
 For example a governance classification could be "confidential".
-The governance program would then describe the governance requirements for condicential data when, for example:
+The governance program would then describe the governance requirements for confidential data when, for example:
  * it is shared with a colleague,
  * passed to an external person,
  * stored etc
+
 The governance program educated employees on the use and meaning of the governance classifications so they know
 how to manage any data with that classification.
 
