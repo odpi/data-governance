@@ -7,7 +7,7 @@ The data governance maturity model was first published in 2018:
 
 > REDP5486 The Journey Continues: from Data Lake to Data-Driven Organization
 >
-> http://www.redbooks.ibm.com/abstracts/redp5486.html?Open
+> [http://www.redbooks.ibm.com/abstracts/redp5486.html?Open](http://www.redbooks.ibm.com/abstracts/redp5486.html?Open)
 
 It shows five levels of maturity that build on one another until the organization is able to support
 a wide range of advanced data use along with appropriate self-service
@@ -26,15 +26,8 @@ The maturity levels are:
 Click on the links above for more detail about each level.
 You will notice that the number of integrations between tools,
 engines and metadata repositories grows with each level of maturity.
-[ODPi Egeria](https://odpi.github.io/egeria/open-metadata-publication/website/)
+[ODPi Egeria](https://egeria.odpi.org/)
 provides open standards and services to simplify this integration.
-
-Figure 1 shows a mature landscape using egeria for integration.
-
-![Figure 1](governance-maturity-model-Data-Citizenship-with-Egeria.png)
-> **Figure 1:** Data Citizenship with Egeria
-
-The integrations show in light blue are using the Egeria open standards.
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
