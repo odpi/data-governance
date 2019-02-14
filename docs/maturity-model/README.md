@@ -1,13 +1,15 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 <!-- Copyright Contributors to the ODPi Egeria project. -->
 
-# Data Governance Maturity Model
+# Governance Maturity Model
 
-The data governance maturity model was first published in 2018:
+The data governance maturity model shown in Figure 1 was first published in 2018:
 
 > REDP5486 The Journey Continues: from Data Lake to Data-Driven Organization
->
 > [http://www.redbooks.ibm.com/abstracts/redp5486.html?Open](http://www.redbooks.ibm.com/abstracts/redp5486.html?Open)
+
+![Figure 1](governance-maturity-model-Governance-Maturity-Model.png)
+> **Figure 1:** Governance Maturity Model
 
 It shows five levels of maturity that build on one another until the organization is able to support
 a wide range of advanced data use along with appropriate self-service
