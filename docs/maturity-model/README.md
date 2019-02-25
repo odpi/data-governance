@@ -17,6 +17,13 @@ access to data for a majority of people in the organization.
 This is the capability that Forrester calls 
 [Data Citizenship](https://www.forrester.com/webinar/Data+Governance+20+The+Journey+Toward+Data+Citizenship/-/E-WEB21683).
 
+In general, organizations are not universally at one level of maturity.
+The adjust their investment to focus on the types of data that will bring the most value.  So their coverage
+looks more like figure 2.
+
+![Figure 2](governance-maturity-model-Governance-Maturity-Model-Progress.png)
+> **Figure 2:** Staging maturity
+
 The maturity levels are:
 
 * **[Data Awareness](Data-Awareness.md)** - where is the organization's data and what does it contain?
