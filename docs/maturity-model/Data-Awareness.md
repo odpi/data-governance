@@ -16,17 +16,8 @@ a user interface.
 ![Figure 1](governance-maturity-model-Data-Awareness.png)
 > **Figure 1:** Capabilities needed to achieve Data Awareness
 
-Figure 2 shows the type of metadata captured for data awareness in [ODPi Egeria](https://egeria.odpi.org/)
-
-![Figure 2](semantic-to-implementation.png)
-> **Figure 2:** Metadata used for data awareness
-
-Figure 3 shows how the metadata types shown in figure 2 map to understanding the meaning, format,
-structure and values of data assets.
-
-![Figure 3](semantic-to-implementation-marked-up.png)
-> **Figure 3:** Explanation of metadata types for data awareness
-
+----
+[^ Back to top](.) or [on to Governance Awareness -->](Governance-Awareness.md)
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
 Copyright Contributors to the ODPi Data Governance project.
