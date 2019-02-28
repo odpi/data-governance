@@ -18,7 +18,7 @@ This is the capability that Forrester calls
 [Data Citizenship](https://www.forrester.com/webinar/Data+Governance+20+The+Journey+Toward+Data+Citizenship/-/E-WEB21683).
 
 In general, organizations are not universally at one level of maturity.
-The adjust their investment to focus on the types of data that will bring the most value.  So their coverage
+They adjust their investment to focus on the types of data that will bring the most value.  So their coverage
 looks more like figure 2.
 
 ![Figure 2](governance-maturity-model-Governance-Maturity-Model-Progress.png)
