@@ -8,7 +8,7 @@ The fundamental question behind any data strategy is:
              How can data assist the organization in delivering its business strategy?
 
 The business strategy may be to move into a new geography, radically change its operations to meet competitive challenges or to develop a new product line.
-Whatever the direction of the business strategy, there is always an element of internal business transformation and a need for information about the new territory that the business strategy embraces.
+Whatever the direction of the business strategy, there is always an element of internal business transformation and a need for information about the new opportunity that the business strategy embraces.
 
 [Jules Keeper](../../personas/jules-keeper.md) was hired by Coco Pharmaceuticals to drive their data strategy.
 
