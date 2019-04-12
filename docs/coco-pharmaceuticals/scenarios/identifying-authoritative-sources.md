@@ -6,13 +6,13 @@
 An **authoritative source** can be throught of as the "best" source of a particular type of information.
 Authoritative sources may come from trusted third parties or be explicitly identified and managed within the organization.
 
-[Jules Keeper](../personas/jules-keeper.md) asks [Erin Overview](../persona/erin-overview.md) to work
+[Jules Keeper](../personas/jules-keeper.md) asks [Erin Overview](../personas/erin-overview.md) to work
 with [Gary Geeke](../personas/gary-geeke.md) to build a list of authoritative sources for the business.
 
 Erin and Gary have two resources to work with:
 
 * Gary has a catalog of all of Coco Pharmaceutical's systems
-* Erin has the [subject area definitions](defining-subject-areas.md)
+* Erin has the [subject area definitions](defining-subject-areas)
 
 For each subject area, they need to identify one or two systems that could
 act as an authoritative source for that type of information.
