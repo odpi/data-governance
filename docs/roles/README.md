@@ -66,6 +66,7 @@ Roles that occur when governance programs are in place:
 * [Data Officer](data-officer-role.md)
 * [Security Officer](security-officer-role.md)
 * [Incident Owner](incident-owner-role.md)
+* [Subject Area Owner](subject-area-owner-role.md)
 
 ## Data Privacy
 
