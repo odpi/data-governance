@@ -5,7 +5,10 @@
 
 The fundamental question behind any data strategy is:
 
-             How can data assist the organization in delivering its business strategy?
+```
+    How can data assist the organization in delivering its business strategy?
+             
+```
 
 The business strategy may be to move into a new geography, radically change its operations to meet competitive challenges or to develop a new product line.
 Whatever the direction of the business strategy, there is always an element of internal business transformation and a need for information about the new opportunity that the business strategy embraces.
@@ -56,9 +59,16 @@ Jules is not discouraged by the feedback - in fact, he is pleased that his colle
 
 He begins to work on the next level of detail:
 
-* [Planning for common definitions](../planning-for-common-data-definitions/README.md)
-* [Defining the new data-driven systems architecture overview](../defining-new-systems-architecture-overview/README.md)
-* [Defining the key information supply chains](../defining-information-supply-chains/README.md)
-* [Defining what is meant by continuous analytics](../defining-continuous-analytics/README.md)
-* [Defining how employees can be data-enabled](../defining-data-enabled-employees/README.md)
-* [Defining why a multi-faceted governance model is needed](../defining-multi-faceted-governance/README.md)
+* [Planning for common definitions](../planning-for-common-data-definitions)
+* [Identifying authoritative sources](../identifying-authoritative-sources)
+* [Defining the new data-driven systems architecture overview](../defining-new-systems-architecture-overview)
+* [Defining the key information supply chains](../defining-information-supply-chains)
+* [Defining what is meant by continuous analytics](../defining-continuous-analytics)
+* [Defining how employees can be data-enabled](../defining-data-enabled-employees)
+* [Defining why a multi-faceted governance model is needed](../defining-multi-faceted-governance)
+
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Data Governance project.
