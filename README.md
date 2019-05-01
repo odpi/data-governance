@@ -2,7 +2,7 @@
 <!-- Copyright Contributors to the ODPi Data Governance project. -->
 
 
-# data-governance
+# ODPi Data Governance
 The ODPi Data Governance Project develops collateral to encourage adoption of the open metadata and governance standards.  
 These standards are provided through the [ODPi Egeria](https://github.com/odpi/egeria) open source project.
 ODPi Egeria provides the reference implementation of these standards that are packaged into reusable libraries for vendors to include.  
