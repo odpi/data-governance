@@ -59,6 +59,7 @@ from time to time.  Below is some of the most recently created guidance.
 * [Governance Basics](governance-basics) provides a simple definition for governance
 along with a description of its key capabilities and requirements and how they operate
 withing an organization.
+* [Governing Systems](governing-systems) describes the capabilities of the systems that support governance.
 * [Coco Pharmaceuticals Personas and Scenarios](https://odpi.github.io/data-governance/coco-pharmaceuticals/) describes the personas and
 scenarios that are driving the work of the Egeria community.
 * [Governance of Data](governance-of-data) explains what makes data governance particularly challenging. 
