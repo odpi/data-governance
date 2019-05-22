@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Sydney Seeker - Fraud Investigator
 
@@ -53,3 +53,9 @@ Desired Outcome:
 * The fraud investigation successfully removes this incident
 of fraudulent activity.
 * The company learns from this and puts in place proper anti-fraud procedures.
+
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

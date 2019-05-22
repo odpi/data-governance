@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Regulator Role
 
@@ -8,3 +8,9 @@
 The regulator is the names authority for a regulation.  They define the rules,
 issue guidance on how to be compliant and investigate suspected breaches in
 the regulation.
+
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Tom Tally - Accounts Manager
 
@@ -49,3 +49,8 @@ It is not correlated and there seems to be many inconsistencies.
 Desired Outcome:
 * Tom want to present the results of a comprehensive investigation
 to the board in a couple of weeks.
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

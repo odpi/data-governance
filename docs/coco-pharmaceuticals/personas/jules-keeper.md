@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Jules Keeper - Chief Data Officer
 
@@ -55,3 +55,8 @@ Desired Outcome:
 * An increase in the number of decisions that are backed by sound information.
 * Transparency in the operations of the organization due to the
 provision of timely comprehensive information.
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

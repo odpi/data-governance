@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Data Governance Roles
 
@@ -94,3 +94,8 @@ Roles for building and using digital services:
 * [Developer](developer-role.md)
 * [Systems Administrator](systems-administrator-role.md)
 
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

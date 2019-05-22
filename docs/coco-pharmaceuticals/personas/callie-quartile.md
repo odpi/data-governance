@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Callie Quartile - Data Scientist
 
@@ -48,3 +48,7 @@ but it needs to be faster and more automated.
 Desired Outcome:
 Callie wants a data lake of all their information that she can explore
 to uncover new insight.  
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

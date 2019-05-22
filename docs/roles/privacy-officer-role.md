@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Privacy Officer Role
 
@@ -26,3 +26,9 @@ personal data they are using and the consent.
 ## Further information
 
 * [Data Privacy Pack](../../data-privacy-pack/README.md)
+
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

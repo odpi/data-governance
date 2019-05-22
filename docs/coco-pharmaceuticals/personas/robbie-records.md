@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Robbie Records - Patient Data Manager
 
@@ -46,3 +46,9 @@ forms and it is difficult to retrieve the data.
 Desired Outcome:
 * Complete transparency on how all patent data is collected,
 stored, managed and disposed of through the hospital and partner organizations.
+
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

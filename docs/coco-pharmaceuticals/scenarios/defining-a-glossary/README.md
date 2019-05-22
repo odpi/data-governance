@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Defining a glossary
 
@@ -40,4 +40,4 @@ In this scenario, Erin is working with [Faith Broker](../../personas/faith-broke
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
-Copyright Contributors to the ODPi Data Governance project.
+Copyright Contributors to the ODPi Egeria project.

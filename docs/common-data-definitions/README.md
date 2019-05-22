@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Common data definitions
 
@@ -27,7 +27,7 @@ Each tool bridge extracts the relevant definitions from the metadata catalog, ge
 and loads them into the tool.  Where possible, these definitions include tags that link the definitions back to the
 common data definitions.
 
-When the new IT capablity is deployed to test and production environments, the tool typically produces a packaged
+When the new IT capability is deployed to test and production environments, the tool typically produces a packaged
 version of the concrete definitions with their tags that point to the metadata.
 The dev-ops pipeline that deploys the artifact reads the tags and ensures that any specific governance requirements for
 the specific type of data that is being used are met.
@@ -65,4 +65,4 @@ governance in the production systems.
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
-Copyright Contributors to the ODPi Data Governance project.
+Copyright Contributors to the ODPi Egeria project.

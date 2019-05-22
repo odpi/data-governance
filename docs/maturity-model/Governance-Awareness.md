@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Governance Awareness
 
@@ -36,4 +36,4 @@ but it does requirement that the attachment of glossary terms to the description
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
-Copyright Contributors to the ODPi Data Governance project.
+Copyright Contributors to the ODPi Egeria project.

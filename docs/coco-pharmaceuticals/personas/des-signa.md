@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Des Signa - Mobile Developer
 
@@ -47,3 +47,8 @@ Desired Outcome:
 * His mobile apps are simple to use, elegant solutions that support
 people in what they need to do.
 * His mobile apps provide proper protection of the data they gather.
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

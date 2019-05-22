@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Repository compliance
 
@@ -9,3 +9,9 @@ server called a repository proxy.   Together they translate API calls and events
 proprietary APIs and formats and the open metadata formats.
 
 The ODPi Egeria compliance suite includes a suite of tests that validate the behaviour of these connectors.
+
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.
