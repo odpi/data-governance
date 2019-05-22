@@ -1,0 +1,6 @@
+I, Ryan Finnin Day hereby sign-off-by all of my past commits to this repo subject to the Developer Certificate of Origin (DCO), Version 1.1. In the past I have used emails: rynofinn@users.noreply.github.com
+
+aeb6642338a03dd71f502b26e22b1d003d3391b4 Create CNAME
+34d4fcdaeb83da663f277c7c5dd73928ebba9979 Delete CNAME
+18428746e98bedad3a8002ddaa1bf29e6baa7829 Create CNAME
+c75db50ff9774292f1ce60c8b38b6415ee1def38 Delete CNAME
