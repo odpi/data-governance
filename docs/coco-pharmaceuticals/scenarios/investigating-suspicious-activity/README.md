@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Investigating suspicious activity
 
@@ -22,3 +22,8 @@ in an investigation into these payments and related activities ...
 ## The process
 
  *more to come*
+ 
+ 
+ ----
+ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+ Copyright Contributors to the ODPi Egeria project.

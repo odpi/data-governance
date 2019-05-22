@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Coco Pharmaceutical Scenarios
 
@@ -22,4 +22,8 @@ set up their new roles and meet the challenges their new responsibilities bring.
 * [Investigating suspicious activity](investigating-suspicious-activity)
 * [Receiving patient data from a hospital](receiving-patient-data-from-a-hospital)
 * [Developing a new digital service using personal data](new-clinical-trials-digital-service)
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.
 

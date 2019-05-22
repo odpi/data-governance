@@ -1,4 +1,5 @@
 <!-- SPDX-License-Identifier: Apache-2.0 -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Faith Broker - HR Director and Privacy Officer
 
@@ -60,7 +61,11 @@ into the IT systems so that the researchers are supported in a
 regulatory compliant way without interfering with their creativity
 and open collaboration.
 * Faith wants managers to have good information about the work of their
-teams,
+teams.
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.
 
 
 

@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Data Citizenship with ODPi Egeria
 
@@ -20,4 +20,4 @@ and governance functions.  Notive that the egeria libraries are embedded in many
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
-Copyright Contributors to the ODPi Data Governance project.
+Copyright Contributors to the ODPi Egeria project.

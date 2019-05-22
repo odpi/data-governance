@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Reggie Mint - Chief Finance Officer
 
@@ -49,3 +49,8 @@ Desired Outcome:
 is using is correct.
 * He wants to resolve the fraud investigation and be sure it
 can not happen again.
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

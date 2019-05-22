@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: Apache-2.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 # Stew Faster - Manufacturing Manager
 
 ![Icon](stew-faster.png)
@@ -29,3 +29,8 @@ Top challenges: Maintaining the high standards in the manufacturing plant while 
 
 Desired Outcome: Stew wants to be more involved in the business decisions around their manufacturing operation.
 He wants to innovate, use new techniques and work in a more challenging environment.
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

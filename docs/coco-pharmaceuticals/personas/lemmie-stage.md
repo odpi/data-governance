@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Lemmie Stage - DataStage Specialist
 
@@ -39,3 +39,8 @@ Desired Outcome:
 He would like [Polly](polly-tasker.md) and
 [Erin Overview](erin-overview.md) (Information Architect) to
 appreciate how vital he is to the business and realize how skilled he is. 
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

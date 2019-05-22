@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Digital Services
 
@@ -30,3 +30,9 @@ and manage the personal data consummed by their digital services.
 ## Further Information
 
 * [The lifecycle of a digital service](https://odpi.github.io/data-governance/digital-services/digital-service-lifecycle)
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.
+

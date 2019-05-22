@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Anatomy of a glossary
 
@@ -124,4 +124,4 @@ is used.
 * [Subject Area OMAS API for defining and storing information](https://github.com/odpi/egeria/blob/master/open-metadata-implementation/access-services/subject-area/README.md)
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
-Copyright Contributors to the ODPi Data Governance project.
+Copyright Contributors to the ODPi Egeria project.

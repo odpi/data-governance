@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Bob Nitter - Application Developer
 
@@ -49,3 +49,6 @@ Desired Outcome
 He wants to go back to building new systems and function for the business
 rather than spending his time cobbling the existing systems together.
 
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

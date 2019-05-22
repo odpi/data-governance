@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Building the governance team
 
@@ -11,7 +11,7 @@ to security, IT infrastructure management, software development and their corpor
 that he can not do this alone and calls his colleagues together to discuss how they proceed.
 
 They agree to divide the work amongst themselves, using the traditional governance domains to divide out the
-responsbilities, but maintaining the governance information using open metadata (Egeria) to be able to
+responsibilities, but maintaining the governance information using open metadata (Egeria) to be able to
 coordinate their work across the governance domains.
 
 The result is as follows:
@@ -31,3 +31,8 @@ ODPi Egeria includes a sample client
 [code](https://github.com/odpi/egeria/blob/master/open-metadata-resources/open-metadata-samples/access-services-samples/governance-program-client-samples/src/main/java/org/odpi/openmetadata/accessservices/governanceprogram/samples/GovernanceLeadershipSample.java))
 that issues the appropriate API calls to set up this team through the
 [Governance Program OMAS](https://github.com/odpi/egeria/blob/master/open-metadata-implementation/access-services/governance-program/README.md) Governance Leadership Interface.
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

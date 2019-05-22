@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Coco Pharmaceuticals' Persona
 
@@ -106,3 +106,8 @@ help in the transformation of Coco Pharmaceuticals' business.
 * [Nancy Noah](nancy-noah.md) - Cloud Architect
 * [Des Signa](des-signa.md) - Mobile Developer
 * [Sidney Seeker](sidney-seeker.md) - Fraud Investigator
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

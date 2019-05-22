@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Ivor Padlock - Chief Security Officer
 
@@ -44,3 +44,8 @@ whilst still enabling flexibility in the use of information.
 Desired Outcome:
 * Data/information is properly protected so it is only used for
 approved purposes.
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

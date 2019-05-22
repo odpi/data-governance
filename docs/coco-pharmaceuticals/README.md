@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Introducing Coco Pharmaceuticals
 
@@ -72,6 +72,10 @@ bring.  Examples include:
 
 * [Detailed descriptions of the personas](personas/README.md)
 * [Roles verses Personas](roles-vs-personas/README.md)
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.
 
 
 

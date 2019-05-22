@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Role extensions for privacy
 
@@ -94,3 +94,8 @@ through this interaction, they may also become a data subject (if the
 digital service collects information about their use of the service)
 or a data controller, if they upload and manage data about other people.
 
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

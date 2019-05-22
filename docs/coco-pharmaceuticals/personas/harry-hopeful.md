@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Harry Hopeful - Sales
 
@@ -23,3 +23,8 @@ result in duplicate record being detected.
 (Such as a name change or DOB correction). 
 * Harry is involved in the fraud investigation because some of his
 customers are affected.
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.
+

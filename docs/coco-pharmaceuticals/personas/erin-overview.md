@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Erin Overview - Information Architect
 
@@ -58,3 +58,7 @@ business about their responsibilities around data.
 * Some way of making common requests for data repeatable and self-service.
 * Appreciation for her teams efforts.
 
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

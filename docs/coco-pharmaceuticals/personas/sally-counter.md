@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Sally Counter - Payment Clerk
 
@@ -20,3 +20,9 @@ their customers and suppliers and is known to many of the researchers.
 with the payments already entered.
 * She has become involved in the fraud investigation because
 she noticed some unusual payments.
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.
+

@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Peter Profile - Data Analyst
 
@@ -39,3 +39,8 @@ and quality rules that Peter defines.
 Desired Outcome:
 A steady improvement in the quality of information in each of the key
 repositories.
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

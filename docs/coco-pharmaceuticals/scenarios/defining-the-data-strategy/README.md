@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Defining the data strategy - "better data for everyone"
 
@@ -35,7 +35,7 @@ In particular:
 
 The purpose of the data strategy is to identify and plan how data can transform business to meet its strategic goals.
 
-In Coco Pharmaceutical's case they need to reduce cycle times across business.  Data needs to be exchanged between different parts of the business as triggers for the different lifecycles.   New types of data needs to be collected, managed and used - all of this this implies an investment in new systems.
+In Coco Pharmaceutical's case they need to reduce cycle times across business.  Data needs to be exchanged between different parts of the business as triggers for the different life cycles.   New types of data needs to be collected, managed and used - all of this this implies an investment in new systems.
 
 Jules realizes there is a lot to do!  He creates a simple framework that organizes what needs to be done into understandable chunks that can be delivered and measured incrementally.  Figure 1 shows his first attempt.
 
@@ -49,7 +49,7 @@ business partners, it needs shared agreements on what this data means, how it is
 * **Data driven systems architecture** - the IT systems need to evolve to support the new data and process requirements.  They need to be integrated so that data flows between them in real-time enabling the new business model to execute effectively.
 * **Optimized information supply chains** - the flow of data between the systems needs to be understood, optimized and managed so that any failure is quickly detected, located and resolved without affecting the service offered to the hospitals.
 * **Authoritative sources** - provides trusted sources of key information.
-* **Continuous analytics** - analytics is core to the discovery and validation of personaized medicine.  In addition, the agile nature of the corresponding business operations needs analytics to automate and monitor the flow of orders, manufacturing, delivery of drugs and payments.
+* **Continuous analytics** - analytics is core to the discovery and validation of personalized medicine.  In addition, the agile nature of the corresponding business operations needs analytics to automate and monitor the flow of orders, manufacturing, delivery of drugs and payments.
 * **Data enabled employees** - the managers of each part of the business, and the board, needs access to up-to-date information about how their business is operating.  They need to be able to use data to continuously evolve and expand the rand of treatments on offer.
 * **Multi-faceted governance model** - finally, their governance model can not just cover data - their transformation needs and integrated governance program that covers data, infrastructure, privacy, security and corporate operations.  Jules needs to talk to the board about a comprehensive approach.  He envisages a team of governance leaders, each responsible for their own governance domain, but working together in a coordinated response.
 
@@ -71,4 +71,4 @@ He begins to work on the next level of detail:
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
-Copyright Contributors to the ODPi Data Governance project.
+Copyright Contributors to the ODPi Egeria project.

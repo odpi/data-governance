@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Polly Tasker - IT Project Leader
 
@@ -47,3 +47,6 @@ until the work is underway and some level of experimentation has been attempted.
 Desired Outcome:
 * Better ways to plan for new integration projects.
 
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

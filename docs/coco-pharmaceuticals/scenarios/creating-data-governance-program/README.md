@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Creating a data governance program
 
@@ -34,3 +34,8 @@ or performing a certain classification of activity in a particular context.
 * Making the governance program actionable by assigning governance
 roles and responsibilities, providing education and commissioning
 new IT projects to improve the automation of the information landscape.
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

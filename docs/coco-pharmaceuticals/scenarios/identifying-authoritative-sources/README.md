@@ -1,9 +1,9 @@
 <!-- SPDX-License-Identifier: Apache-2.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Identifying authoritative sources
 
-An **authoritative source** can be throught of as the "best" source of a particular type of information.
+An **authoritative source** can be thought of as the "best" source of a particular type of information.
 Authoritative sources may come from trusted third parties or be explicitly identified and managed within the organization.
 
 [Jules Keeper](../../personas/jules-keeper.md) asks [Erin Overview](../../personas/erin-overview.md) to work
@@ -25,7 +25,7 @@ They need to consider:
 * Is this system kept up to date with regular feeds of information?
 * Could this system support the work of a steward to resolve conflicts and fix values in the data?
 
-The result of the excercise shows where there are critical gaps in the information landscape that need futher
+The result of the exercise shows where there are critical gaps in the information landscape that need further
 investment.  This may be updates to the identified systems, or an investment in new systems.
 The second is more likely in areas that are new for the business.  For example,
 when Erin and Gary looked at the area of patient details they realized they do hold a lot of patient data
@@ -39,4 +39,4 @@ directory.
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
-Copyright Contributors to the ODPi Data Governance project.
+Copyright Contributors to the ODPi Egeria project.

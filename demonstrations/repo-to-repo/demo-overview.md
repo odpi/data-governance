@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # OMRS Repository-to-Repository Demonstration
 
@@ -10,7 +10,7 @@ Requirements:	At a high level, this demo will be an asset that supports live and
 
 ## Source:		
 
-Per last week's meeting, and David's suggestion, artifacts and storyboard will be inspired by the ODPi Data Governance PMC Privacy Pack and also Coco Pharmaceuticals.
+Per last week's meeting, and David's suggestion, artifacts and storyboard will be inspired by the ODPi Egeria Privacy Pack and also Coco Pharmaceuticals.
 
 ## Capabilities:		
 
@@ -19,7 +19,7 @@ OMRS is limited at this point in its early release to RDBMS and Business Term ar
 
 ## Demo Scenario
 
-The script describes two personna that are important to GDPR and Data Privacy Management.    An "Asset Owner" and a "Data Privacy Officer".    They will be described  as working at Coco Pharmaceuticals (see other links in the project, such as https://github.com/odpi/data-governance/tree/master/data-privacy-pack and https://github.com/odpi/data-governance/tree/master/docs/coco-pharmaceuticals), where the Data Privacy Officer is responsible for evaluating new systems and application offerings, setting privacy policies, and leading data privacy assessments, and the Asset Owner being someone with responsibility/ownership/management of a new offering for customers/new business, etc. [proposed participants for the demo script will be "Faith" (Data Privacy Officer) and then Erin, Tessa and Jules, as team members with architecture or data steward responsibility surrounding clinical research]. The demo script won't have time to go into deep detail on their roles, but will establish their positions and responsibilities. The Asset Owner is part of a team that is proposing and building, or soon to deploy, a mobile clinical trials application for monitoring drug use.   Before the application can be approved, it must first be reviewed by the Data Privacy team.   How extensive that review is, and whether a detailed Privacy Impact Assessment must be scheduled, is the responsibility of the Data Privacy Officer.  
+The script describes two persona that are important to GDPR and Data Privacy Management.    An "Asset Owner" and a "Data Privacy Officer".    They will be described  as working at Coco Pharmaceuticals (see other links in the project, such as https://github.com/odpi/data-governance/tree/master/data-privacy-pack and https://github.com/odpi/data-governance/tree/master/docs/coco-pharmaceuticals), where the Data Privacy Officer is responsible for evaluating new systems and application offerings, setting privacy policies, and leading data privacy assessments, and the Asset Owner being someone with responsibility/ownership/management of a new offering for customers/new business, etc. [proposed participants for the demo script will be "Faith" (Data Privacy Officer) and then Erin, Tessa and Jules, as team members with architecture or data steward responsibility surrounding clinical research]. The demo script won't have time to go into deep detail on their roles, but will establish their positions and responsibilities. The Asset Owner is part of a team that is proposing and building, or soon to deploy, a mobile clinical trials application for monitoring drug use.   Before the application can be approved, it must first be reviewed by the Data Privacy team.   How extensive that review is, and whether a detailed Privacy Impact Assessment must be scheduled, is the responsibility of the Data Privacy Officer.  
 
 [Note:  depending on the "current" level of metadata sharing support among OMRS Connector implementations, the demo script might start with the creation and sharing of a Business Term, or perhaps the creation and sharing of the metadata for a relational table, but ultimately the goal is to illustrate bi-directional sharing of "new" metadata and then also the "assignment" of terminology to a particular data asset....but the exact "order" of creation/sharing may vary from the script described below based on what amount of functionality is available ---- particularly for an initial demo implementation targeted for Vancouver North America Summit (August, 2018).]
 
@@ -29,3 +29,6 @@ Our Data Privacy Officer receives a notification that new metadata is "available
 
 From a technical perspective, the demo illustrates automated and real-time sharing of metadata between the two repositories, in both directions.  The expectation is that the traffic between repositories will be illustrated by opening a window to one or more kafka-consumers.   This helps describe the technical parts of the solution, as well as emphasis the "real-time" automation happening behind the scenes.  This will also help address the needs of different audiences for this demo, whether they are developers or users, and with a technical or governance/business background.
 
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

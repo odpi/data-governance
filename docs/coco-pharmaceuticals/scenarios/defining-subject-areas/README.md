@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 # Defining Subject Areas
 
 [Jules Keeper](../../personas/jules-keeper.md) asks [Erin Overview](../../personas/erin-overview.md) for a list of the key subject areas managed by the IT systems today.
@@ -91,4 +91,9 @@ focus and attention now.
 
 ![Figure 2](coco-pharmaceuticals-core-subject-areas.png)
 > Figure 2: Coco Pharmaceutical’s new candidate subject area model
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.
 

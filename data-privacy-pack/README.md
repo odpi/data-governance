@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
-# The ODPi Data Privacy Pack
+# The ODPi Egeria Data Privacy Pack
 
 How would an organization comply with data protection/data privacy
 regulation such as the European Union General Data Protection Regulation (GDPR)?
@@ -11,7 +11,7 @@ carefully planned and rolled out consistently across multiple groups within
 the organization - otherwise the organization may waste a lot of time and
 effort without actually becoming compliant.
 
-The aim of the ODPi data privacy pack is to provide support to a person
+The aim of the ODPi Egeria data privacy pack is to provide support to a person
 responsible for implementing data privacy in an organization.
 We refer to this role as the [Privacy Officer](../docs/roles/privacy-officer-role.md).
 
@@ -39,4 +39,9 @@ repository cohort.   It is also driving changes into Egeria to provide specific
 privacy services through the
 [Data Privacy Open Metadata Access Service (OMAS)](https://odpi.github.io/egeria/open-metadata-implementation/access-services/data-privacy/).
 
-Progress for the data privacy pack is managed through JIRA DG-1 https://jira.odpi.org/browse/DG-1
+
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

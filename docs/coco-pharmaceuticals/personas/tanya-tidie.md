@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Tanya Tidie - Clinical Record Clerk
 
@@ -47,3 +47,8 @@ forms that must be transcribed manually along with a scan of the original notes.
 Desired Outcome:
 * Tanya wants to be sure that the data collected in the clinical
 trials is accurate and complete.
+
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

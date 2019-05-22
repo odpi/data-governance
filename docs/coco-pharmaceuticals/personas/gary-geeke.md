@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-<!-- Copyright Contributors to the ODPi Data Governance project. -->
+<!-- Copyright Contributors to the ODPi Egeria project. -->
 
 # Gary Geeke - IT Infrastructure Administrator
 
@@ -45,3 +45,7 @@ Desired Outcome:
 * Fully automated operations with appropriate alerting and diagnostics.
 * Time to work on new projects that expand his skills.
 
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.
