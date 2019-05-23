@@ -110,7 +110,7 @@ coordinated by different teams.  For example:
 
 * Data assets are governed by the data governance team
 * Financial assets are governed by the finance team
-* Privacy is governance by the privacy team
+* Privacy is governed by the privacy team
 * Security is governed by the security compliance team
 
 However, their work is inter-related and follows a common pattern.
