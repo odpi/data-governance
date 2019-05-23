@@ -116,6 +116,11 @@ coordinated by different teams.  For example:
 However, their work is inter-related and follows a common pattern.
 See [Governing Systems](../governing-systems) for more information.
 
+## Further reading
+
+* [The governance of data](../governance-of-data)
+* [Delivering governance through the governing systems](../governing-systems)
+* [Governance maturity model](../maturity-model)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
