@@ -3,7 +3,8 @@
 
 # Data Custodian Role
 
-![Icon](data-custodian-role.png)
+<!--![Icon](data-custodian-role.png)-->
+<img src="/docs/roles/data-custodian-role.png">
 
 The data custodian is responsible for ensuring data from a third party is
 managed and used according to its licence.

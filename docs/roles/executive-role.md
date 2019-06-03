@@ -3,7 +3,8 @@
 
 # Executive Role
 
-![Icon](executive-role.png)
+<!--![Icon](executive-role.png)-->
+<img src="/docs/roles/executive-role.png">
 
 The executive is responsible for leading the direction of the
 organization and speaking on its behalf.

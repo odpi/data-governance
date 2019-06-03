@@ -3,7 +3,8 @@
 
 # Incident Owner Role
 
-![Icon](incident-owner-role.png)
+<!--![Icon](incident-owner-role.png)-->
+<img src="/docs/roles/incident-owner-role.png">
 
 The incident owner role is responsible for coordinating the activity and resolution
 of a specific incident that is detected by the organization.

@@ -3,7 +3,8 @@
 
 # Data Officer Role
 
-![Icon](data-officer-role.png)
+<!--![Icon](data-officer-role.png)-->
+<img src="/docs/roles/data-officer-role.png">
 
 The data officer is responsible for setting the data strategy and
 leading the data governance program.
