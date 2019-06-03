@@ -4,7 +4,7 @@
 # Architect Role
 
 <!--![Icon](architect-role.png)-->
-<img src="/docs/roles/architect-role.png">
+<img src="architect-role.png">
 
 The architect is responsible for the structural design of digital systems
 ensuring it is fit for purpose, resilient, secure and cost effective.

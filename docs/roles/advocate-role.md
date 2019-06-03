@@ -4,7 +4,7 @@
 # Advocate Role
 
 <!--![Icon](advocate-role.png)-->
-<img src="/docs/roles/advocate-role.png">
+<img src="advocate-role.png">
 
 The advocate is responsible for the selling the value of an asset to
 potential asset consumers.  This may be an internal role, or one that involves

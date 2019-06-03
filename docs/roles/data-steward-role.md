@@ -4,7 +4,7 @@
 # Data Steward Role
 
 <!--![Icon](data-steward-role.png)-->
-<img src="/docs/roles/data-steward-role.png">
+<img src="data-steward-role.png">
 
 The data steward is responsible for ensuring data is fit for purpose.
 This may involve correcting errors in the data, improving its metadata

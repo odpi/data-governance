@@ -4,7 +4,7 @@
 # Subject Area Owner Role
 
 <!--![Icon](subject-area-owner-role.png)-->
-<img src="/docs/roles/subject-area-owner-role.png">
+<img src="subject-area-owner-role.png">
 
 The subject area owner role is responsible for the definition of a subject area.
 
