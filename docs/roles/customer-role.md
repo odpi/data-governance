@@ -4,7 +4,7 @@
 # Customer Role
 
 <!--![Icon](customer-role.png)-->
-<img src="/docs/roles/customer-role.png">
+<img src="customer-role.png">
 
 The customer is responsible for choosing an asset offered by the
 organization and then setting up the agreements and contracts

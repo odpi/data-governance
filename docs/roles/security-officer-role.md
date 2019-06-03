@@ -4,7 +4,7 @@
 # Security Officer Role
 
 <!--![Icon](security-officer-role.png)-->
-<img src="/docs/roles/security-officer-role.png">
+<img src="security-officer-role.png">
 
 The supplier is a business partner that provides goods and/or services to
 the organization.

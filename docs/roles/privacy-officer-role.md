@@ -4,7 +4,7 @@
 # Privacy Officer Role
 
 <!--![Icon](privacy-officer-role.png)-->
-<img src="/docs/roles/privacy-officer-role.png">
+<img src="privacy-officer-role.png">
 
 The privacy officer is responsible for ensuring the organization
 takes proper care to ensure its services and mode of operation does not
