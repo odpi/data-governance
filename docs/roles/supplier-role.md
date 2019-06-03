@@ -3,7 +3,8 @@
 
 # Supplier Role
 
-![Icon](supplier-role.png)
+<!--![Icon](supplier-role.png)-->
+<img src="/docs/roles/supplier-role.png">
 
 The supplier is a business partner that provides goods and/or services to
 the organization.
