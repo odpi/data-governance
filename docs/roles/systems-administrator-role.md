@@ -3,7 +3,8 @@
 
 # Systems Administrator Role
 
-![Icon](systems-administrator-role.png)
+<!--![Icon](systems-administrator-role.png)-->
+<img src="systems-administrator-role.png">
 
 The systems administrator manages the IT infrastructure of an organization
 

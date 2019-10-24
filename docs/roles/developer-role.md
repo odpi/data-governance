@@ -3,7 +3,8 @@
 
 # Developer Role
 
-![Icon](developer-role.png)
+<!--![Icon](developer-role.png)-->
+<img src="developer-role.png">
 
 The developer is responsible for designing, coding and testing software.
 

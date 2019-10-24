@@ -3,7 +3,8 @@
 
 # Asset Owner Role
 
-![Icon](asset-owner-role.png)
+<!--![Icon](asset-owner-role.png)-->
+<img src="asset-owner-role.png">
 
 Asset owners are individuals that own one or more of the following:
 * A data set

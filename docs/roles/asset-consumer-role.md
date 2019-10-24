@@ -3,7 +3,8 @@
 
 # Asset Consumer Role
 
-![Icon](asset-consumer-role.png)
+<!--![Icon](asset-consumer-role.png)-->
+<img src="asset-consumer-role.png">
 
 The asset consumer is an individual that consumes an asset.  This may
 be a data set or a digital service, or both.

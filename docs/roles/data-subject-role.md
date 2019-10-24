@@ -3,7 +3,8 @@
 
 # Data Subject Role
 
-![Icon](data-subject-role.png)
+<!--![Icon](data-subject-role.png)-->
+<img src="data-subject-role.png">
 
 The data subject is the person that personal data is about.
 
