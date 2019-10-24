@@ -3,7 +3,8 @@
 
 # Project Lead Role
 
-![Icon](project-lead-role.png)
+<!--![Icon](project-lead-role.png)-->
+<img src="project-lead-role.png">
 
 The project lead role is responsible for the delivery of
 a project on time and within budget.
