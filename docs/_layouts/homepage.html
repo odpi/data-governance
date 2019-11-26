@@ -3,7 +3,8 @@
 <html lang="{{ site.lang | default: 'en-US' }}">
 
   <head>
-
+    <title>{{ site.title | escape }}{% if page.title %} - {{ page.title | escape }}{% endif %}</title>
+    <link rel="shortcut icon" href="{{ '/assets/favicon.ico?v=' | append: site.github.build_revision | relative_url }}" />
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto:400,500" rel="stylesheet">
     <meta charset='utf-8'>
@@ -19,7 +20,9 @@
   </head>
 
   <body>
-
+    <div class="lfheader">
+      <img src="{{ '/assets/img/lf-projects.svg?v=' | append: site.github.build_revision | relative_url }}">
+    </div>
     <!-- HEADER -->
 <div class="container">
     <div id="header_wrap" class="outer">
