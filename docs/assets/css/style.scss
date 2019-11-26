@@ -70,7 +70,7 @@ button {
   padding-top: 5%;
   color: #28adba;
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 0.8em;
   margin-top: 15%;
 }
 
@@ -197,6 +197,8 @@ a {
 .lfheader {
   background-color: #777777;
   width: 100%;
+  top: 0;
+  position: sticky;
 }
 
 .lfheader img {
