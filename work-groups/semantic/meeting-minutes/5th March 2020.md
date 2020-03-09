@@ -40,3 +40,5 @@ be specified in a similar way to Zones; with definitions in area 4 and in classi
 a Glossary Term could have more than one category, but it should only be in one subject area.
 * Daniella to confirm the IGC mappings of content to Egeria concepts via the project is as she would expect.    
 ## Next session:
+Working session to map model constructs (for example owl, rdf, rdfs namespace elements) to Egeria types 
+(mostly in area 3 starting with GlossaryTerms and Term to Term relationships ) 
