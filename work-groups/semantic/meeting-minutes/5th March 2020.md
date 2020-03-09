@@ -18,7 +18,7 @@
     * Daniela talked of the first phase of metadata driven security being Ranger, Active directory and Gaian
     * The second phase will be "full integration" including security officer and showing the use of the security tags confidentiality and subject area. 
     Mandy thought that origin (country)  might be in scope as well, as we had previously included origin in these simpler use cases.
-   * We talked about the definitiion of subjkect area, there as an IGC logical model definition that was not the Egeria subject area. Daniela is using IGC
+   * We talked about the definition of subject area, there as an IGC logical model definition that was not the Egeria subject area. Daniela is using IGC
    for this proof point so needs to find how the subject area classification is represented in IGC and exposed through the IGC proxy.
    * We talked about some of the history. An employee with a work address and a home address both in the Employee subject area.
 * We talked about the nature of subject area. How granular should it be , Mandy suggested that the granularity would be dictated by
