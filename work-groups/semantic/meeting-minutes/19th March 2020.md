@@ -30,7 +30,9 @@
     * We talked of identifying elements from their relationships. 
     * We talked of the ideal way of representing model content using RDFS etc tags - so that it is self descriptive and would 'naturally' map into 
      Egeria (IBM products would also be able to consume this form directly); using open standards where possible to make the format as widely consumable as possible.
-                    
+    * We talked of 2 ways to recognise an Egeria glossary, when importing from a metadata repository that only has categories (such as IGC)
+    We could import all content into one Egeria glossary or alternatively we could import all Categories that do not have parents as glossaries.
+    If there is an explicit canonical vocabulary, then this would be identified as a Canonical Glossary                 
 ## Actions:
 * David to circulate the mappings and the proposals for feedback.
  
