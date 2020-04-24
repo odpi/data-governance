@@ -1,4 +1,4 @@
-# Egeria Semantics workgroup 2nd of April 2020
+# Egeria Semantics workgroup 23rd of April 2020
 
 ## Agenda:
 * Michal to present proposal of model formats and mappings from RDF to Egeria to IGC  
