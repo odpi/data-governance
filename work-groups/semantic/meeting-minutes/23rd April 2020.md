@@ -1,7 +1,11 @@
 # Egeria Semantics workgroup 23rd of April 2020
 
 ## Agenda:
-* Michal to present proposal of model formats and mappings from RDF to Egeria to IGC  
+* David to present the OWL RDF Sample visualization
+* David to present the OWL RDF Big model visualization
+* Get feedback on visualization
+* Ask whether anything else needed before committing to Egeria code as a tech preview.
+* Michal to present his UI that explores Owl content. 
 
 ## Attendees:
 * David Radley (IBM)
