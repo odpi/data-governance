@@ -17,25 +17,26 @@ In this scenario, Erin is working with [Faith Broker](../../personas/faith-broke
 
 ## What are the initial list of key concepts?
 
-![Figure 1](initial-term-list.png)
+![Figure 1](initial-term-list.png#pagewidth)
 > Figure 1: Defining the initial list of terms
 
 
 ## Drilling down to fill out more information
 
-![Figure 2](work-location.png)
+![Figure 2](work-location.png#pagewidth)
 > Figure 2: Refining Work Location
 
 
-![Figure 3](postal-address.png)
+![Figure 3](postal-address.png#pagewidth)
 > Figure 3: Redefining Postal Address
 
 
-![Figure 4](manager.png)
+![Figure 4](manager.png#pagewidth)
 > Figure 4: Defining Manager
 
 
-
+----
+Return to [Scenarios](..).
 
 
 ----

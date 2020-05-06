@@ -32,7 +32,7 @@ on developing a governance capability.
 
 Consider figure 1:
 
-![Figure 1](simple-model-of-an-org.png)
+![Figure 1](simple-model-of-an-org.png#pagewidth)
 > Figure 1: simple model of an organization
 
 This simple model highlights the key drivers of any type of organization.

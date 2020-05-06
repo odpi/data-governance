@@ -7,10 +7,19 @@ body {
 }
 
 img {
-  width: 100%;
   padding-top: 2%;
   padding-bottom: 2%;
 }
+
+img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
+}
+
+img[src*="#pagewidth"] {
+   width:100%;
+}
+
 
 * {
   margin: 0;
@@ -42,6 +51,19 @@ li {
   box-sizing: border-box;
 }
 
+.highlight {
+  background-color: #eeeeee;
+}
+
+pre {
+  white-space: pre !important;
+  padding: 16px;
+  overflow: auto;
+  border-radius: 3px;
+  line-height: 1.45;
+  margin-bottom: 2%;
+}
+
 ol {
   margin-left: 2%;
 }
@@ -67,7 +89,7 @@ ul {
   text-align: center;
   width: 100%;
   padding-top: 5%;
-  line-height: 1.3em;
+  line-height: 1.5em;
   display: block;
   font-size: 18px;
 }
@@ -247,6 +269,8 @@ a {
     padding-top: 1.5%;
     padding-left: 2%;
     padding-bottom: 1.5%;
+    top: 0;
+    position: sticky;
   }
 
   .content {

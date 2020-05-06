@@ -13,11 +13,13 @@ processes/applications that work with them.  In addition, the catalog can includ
 Figure 1 shows the different types of tools that can be used to build up the data catalog and make it searchable through
 a user interface.
 
-![Figure 1](governance-maturity-model-Data-Awareness.png)
+![Figure 1](governance-maturity-model-Data-Awareness.png#pagewidth)
 > **Figure 1:** Capabilities needed to achieve Data Awareness
 
 ----
 [^ Back to top](.) or [on to Governance Awareness -->](Governance-Awareness.md)
+
+
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
 Copyright Contributors to the ODPi Egeria project.

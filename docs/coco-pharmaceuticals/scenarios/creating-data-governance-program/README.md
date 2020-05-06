@@ -35,6 +35,8 @@ or performing a certain classification of activity in a particular context.
 roles and responsibilities, providing education and commissioning
 new IT projects to improve the automation of the information landscape.
 
+----
+Return to [Scenarios](..).
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
