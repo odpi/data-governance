@@ -3,8 +3,7 @@
 
 # Security Officer Role
 
-<!--![Icon](security-officer-role.png)-->
-<img src="security-officer-role.png">
+![Icon](security-officer-role.png)
 
 The supplier is a business partner that provides goods and/or services to
 the organization.
@@ -15,6 +14,9 @@ the organization.
 * [Extensions to the security officer role for privacy](../../data-privacy-pack/role-extensions-for-privacy.md)
 
 
+----
+* [Return to main article](.)
+* [Return to home](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

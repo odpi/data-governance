@@ -33,8 +33,13 @@ but it does requirement that the attachment of glossary terms to the description
 ![Figure 1](governance-maturity-model-Governance-Awareness.png#pagewidth)
 > **Figure 1:** Capabilities needed to achieve Governance Awareness
 
+
 ----
-[^ Back to top](.) or [on to Embedded Governance -->](Embedded-Governance.md)
+The next phase is [Embedded Governance](Embedded-Governance.md).
+
+----
+* [Return to main article](.)
+* [Return to home](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

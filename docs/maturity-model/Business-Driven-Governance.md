@@ -23,7 +23,11 @@ Figure 1 shows the business driven governance in operation.
 
 
 ----
-[^ Back to top](.) or [on to Data Citizenship -->](Data-Citizenship.md)
+The next phase is [Data Citizenship ...](Data-Citizenship.md).
+
+----
+* [Return to main article](.)
+* [Return to home](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

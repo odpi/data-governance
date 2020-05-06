@@ -3,8 +3,7 @@
 
 # Asset Owner Role
 
-<!--![Icon](asset-owner-role.png)-->
-<img src="asset-owner-role.png">
+![Icon](asset-owner-role.png)
 
 Asset owners are individuals that own one or more of the following:
 * A data set
@@ -46,7 +45,9 @@ what data is stored, shared and how long is it kept.
 
 * [Extensions to the asset owner role for privacy](../../data-privacy-pack/role-extensions-for-privacy.md)
 
-
+----
+* [Return to main article](.)
+* [Return to home](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

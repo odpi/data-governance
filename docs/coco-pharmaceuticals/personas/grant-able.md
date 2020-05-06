@@ -42,6 +42,9 @@ Desired Outcome:
 He is contributing to a dynamic and evolving body of knowledge about
 cancer treatment that provides easy access to the information he needs.
 
+----
+* [Return to Coco Pharmaceuticals Personas](.)
+* [Return to Coco Pharmaceuticals Overview](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

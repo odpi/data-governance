@@ -16,9 +16,13 @@ a user interface.
 ![Figure 1](governance-maturity-model-Data-Awareness.png#pagewidth)
 > **Figure 1:** Capabilities needed to achieve Data Awareness
 
-----
-[^ Back to top](.) or [on to Governance Awareness -->](Governance-Awareness.md)
 
+----
+The next phase is [Governance Awareness](Governance-Awareness.md).
+
+----
+* [Return to main article](.)
+* [Return to home](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

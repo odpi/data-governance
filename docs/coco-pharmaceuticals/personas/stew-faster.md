@@ -30,6 +30,9 @@ Top challenges: Maintaining the high standards in the manufacturing plant while 
 Desired Outcome: Stew wants to be more involved in the business decisions around their manufacturing operation.
 He wants to innovate, use new techniques and work in a more challenging environment.
 
+----
+* [Return to Coco Pharmaceuticals Personas](.)
+* [Return to Coco Pharmaceuticals Overview](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

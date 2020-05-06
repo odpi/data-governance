@@ -40,6 +40,9 @@ He would like [Polly](polly-tasker.md) and
 [Erin Overview](erin-overview.md) (Information Architect) to
 appreciate how vital he is to the business and realize how skilled he is. 
 
+----
+* [Return to Coco Pharmaceuticals Personas](.)
+* [Return to Coco Pharmaceuticals Overview](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

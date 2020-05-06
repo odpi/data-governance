@@ -3,8 +3,7 @@
 
 # Incident Owner Role
 
-<!--![Icon](incident-owner-role.png)-->
-<img src="incident-owner-role.png">
+![Icon](incident-owner-role.png)
 
 The incident owner role is responsible for coordinating the activity and resolution
 of a specific incident that is detected by the organization.
@@ -17,6 +16,9 @@ or some suspicious activity that could be fraud.
 * [Extensions to the incident owner role for privacy](../../data-privacy-pack/role-extensions-for-privacy.md)
 
 
+----
+* [Return to main article](.)
+* [Return to home](..)
 
 
 ----
