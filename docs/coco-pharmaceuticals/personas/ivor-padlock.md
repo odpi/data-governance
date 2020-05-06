@@ -45,6 +45,9 @@ Desired Outcome:
 * Data/information is properly protected so it is only used for
 approved purposes.
 
+----
+* [Return to Coco Pharmaceuticals Personas](.)
+* [Return to Coco Pharmaceuticals Overview](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

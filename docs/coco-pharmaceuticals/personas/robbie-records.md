@@ -47,6 +47,9 @@ Desired Outcome:
 * Complete transparency on how all patent data is collected,
 stored, managed and disposed of through the hospital and partner organizations.
 
+----
+* [Return to Coco Pharmaceuticals Personas](.)
+* [Return to Coco Pharmaceuticals Overview](..)
 
 
 ----

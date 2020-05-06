@@ -12,7 +12,8 @@ integration concepts (JMS, Services).
 
 Scope: IT Project.
 
-Job: Bob is an experienced developer with good understanding of
+Job: 
+Bob is an experienced developer with good understanding of
 the types of systems that the company owns.
 He has spent most of the last five years connecting systems
 together using JMS, services, python scripts and other
@@ -48,6 +49,10 @@ other systems of engagement and provisioning in and out of the data lake.
 Desired Outcome
 He wants to go back to building new systems and function for the business
 rather than spending his time cobbling the existing systems together.
+
+----
+* [Return to Coco Pharmaceuticals Personas](.)
+* [Return to Coco Pharmaceuticals Overview](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

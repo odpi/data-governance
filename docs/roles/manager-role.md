@@ -3,8 +3,7 @@
 
 # Manager Role
 
-<!--![Icon](manager-role.png)-->
-<img src="manager-role.png">
+![Icon](manager-role.png)
 
 The manager is responsible for coordinating the work of other employees.
 they are often also responsible for the well-being, recognition and rewards
@@ -14,6 +13,9 @@ The manager role if often used as a target for exceptions and approvals of
 governance actions that occur within their team.
 
 
+----
+* [Return to main article](.)
+* [Return to home](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

@@ -48,6 +48,9 @@ Desired Outcome:
 people in what they need to do.
 * His mobile apps provide proper protection of the data they gather.
 
+----
+* [Return to Coco Pharmaceuticals Personas](.)
+* [Return to Coco Pharmaceuticals Overview](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

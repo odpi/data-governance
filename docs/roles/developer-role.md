@@ -3,8 +3,7 @@
 
 # Developer Role
 
-<!--![Icon](developer-role.png)-->
-<img src="developer-role.png">
+![Icon](developer-role.png)
 
 The developer is responsible for designing, coding and testing software.
 
@@ -12,7 +11,9 @@ The developer is responsible for designing, coding and testing software.
 
 * [Extensions to the developer role for privacy](../../data-privacy-pack/role-extensions-for-privacy.md)
 
-
+----
+* [Return to main article](.)
+* [Return to home](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

@@ -58,6 +58,9 @@ business about their responsibilities around data.
 * Some way of making common requests for data repeatable and self-service.
 * Appreciation for her teams efforts.
 
+----
+* [Return to Coco Pharmaceuticals Personas](.)
+* [Return to Coco Pharmaceuticals Overview](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

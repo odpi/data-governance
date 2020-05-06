@@ -3,8 +3,7 @@
 
 # Data Subject Role
 
-<!--![Icon](data-subject-role.png)-->
-<img src="data-subject-role.png">
+![Icon](data-subject-role.png)
 
 The data subject is the person that personal data is about.
 
@@ -12,7 +11,9 @@ The data subject is the person that personal data is about.
 
 * [Data Privacy Pack](../../data-privacy-pack/README.md)
 
-
+----
+* [Return to main article](.)
+* [Return to home](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

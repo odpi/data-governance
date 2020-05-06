@@ -42,7 +42,7 @@ governance.  In some larger organizations, these roles may be staffed by a dedic
 team, or further sub-divided into more specific roles.  However, for most
 organizations, they represent just part of an individual's responsibility.
 
-![Role Summary](role-summary.png)
+![Role Summary](role-summary.png#pagewidth)
 
 ## Organizational Leadership (general)
 

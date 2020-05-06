@@ -14,7 +14,11 @@ the key infrastructure that is managing the assets.
 
 
 ----
-[^ Back to top](.) or [on to Business Driven Governance -->](Business-Driven-Governance.md)
+The next phase is [Business Driven Governance](Business-Driven-Governance.md).
+
+----
+* [Return to main article](.)
+* [Return to home](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
