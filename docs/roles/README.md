@@ -29,7 +29,7 @@ Where data is flowing from system to system, responsibility may be handed
 off from one data steward to another as the data moves between their scopes of
 responsibility.
 
-![Hand-off between roles with different scopes](role-scopes.png)
+![Hand-off between roles with different scopes](role-scopes.png#pagewidth)
 
 Except in very large enterprises, the data governance roles are typically assigned
 to individuals in addition to their main role in the organization.
@@ -94,6 +94,8 @@ Roles for building and using digital services:
 * [Developer](developer-role.md)
 * [Systems Administrator](systems-administrator-role.md)
 
+----
+Return to [Guidance on Governance](..).
 
 
 ----

@@ -83,7 +83,7 @@ below the figure.  the aim is to gather information about the data use in a digi
 as the digital service is developed in the most cost effective manner and use the associated processes to design, develop,
 deploy and operate the digital service in a way that ensures data privacy is respected.
 
-![Figure 1](digital-service-lifecycle-with-data-privacy-controls.png)
+![Figure 1](digital-service-lifecycle-with-data-privacy-controls.png#pagewidth)
 > Figure 1: The additional steps needed to manage data privacy throughout the digital service's lifecycle
 
 * **Data Value Assessment** - review of the types of data expected to be captured and why they are needed
@@ -104,6 +104,10 @@ is a data processor.)
 * **Suspicious Activity Report** - describes some activity that needs investigating.
 * **Data Breach Report** - describes a data breach - what happened and the steps to recover from it.
 * **Data Breach Impact Assessment** - covers the impact of the data breach on the data subjects involved.
+
+
+----
+Return to [Guidance on Governance](..).
 
 
 ----

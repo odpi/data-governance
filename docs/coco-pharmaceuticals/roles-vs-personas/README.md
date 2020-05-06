@@ -10,7 +10,7 @@ experienced people, to be assigned multiple roles.
 For example, the picture below shows some of the roles that
 [Tessa Tube](../personas/tessa-tube.md) performs.
 
-![Tessa Tubes' Roles](tessa-tubes-roles.png)
+![Tessa Tubes' Roles](tessa-tubes-roles.png#pagewidth)
 
 Each of these roles has a context.  For example, Tessa is a manager, but not
 for everyone in Coco Pharmaceuticals.  She is a manager of a specific team.
@@ -34,6 +34,8 @@ The profile and role are managed primarily by the [Community Profile OMAS](https
 and this drives the display on Egeria's user interfaces
 as well as some aspects of security.
 
+----
+Return to [Coco Pharmaceuticals Overview](..).
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

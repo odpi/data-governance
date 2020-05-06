@@ -24,6 +24,9 @@ in an investigation into these payments and related activities ...
  *more to come*
  
  
+----
+Return to [Scenarios](..).
+
  ----
  License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
  Copyright Contributors to the ODPi Egeria project.

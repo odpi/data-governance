@@ -107,6 +107,8 @@ help in the transformation of Coco Pharmaceuticals' business.
 * [Des Signa](des-signa.md) - Mobile Developer
 * [Sidney Seeker](sidney-seeker.md) - Fraud Investigator
 
+----
+Return to [Coco Pharmaceuticals Overview](..).
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

@@ -18,9 +18,12 @@ is regularly synchronized from the master data catalog.
 
 Figure 1 shows the business driven governance in operation.
 
-![Figure 1](governance-maturity-model-Business-Driven-Governance.png)
+![Figure 1](governance-maturity-model-Business-Driven-Governance.png#pagewidth)
 > **Figure 1:** Capabilities needed to achieve Business Driven Governance
 
+
+----
+[^ Back to top](.) or [on to Data Citizenship -->](Data-Citizenship.md)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

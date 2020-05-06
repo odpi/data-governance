@@ -23,13 +23,17 @@ The result is that data is being generated and exchanged in a complex network of
 different organizations.
 
 Privacy regulations such as the EU's General Data Protection Regulation require an organization to guarantee that they are only
-processing personal data with the consent of the **[data subject](https://odpi.github.io/data-governance/roles/data-subject-role.html)**.
+processing personal data with the consent of the **[data subject](../roles/data-subject-role.md)**.
 This means an organization needs to understand
-and manage the personal data consummed by their digital services.
+and manage the personal data consumed by their digital services.
 
 ## Further Information
 
-* [The lifecycle of a digital service](https://odpi.github.io/data-governance/digital-services/digital-service-lifecycle)
+* [The lifecycle of a digital service](digital-service-lifecycle.md)
+
+
+----
+Return to [Guidance on Governance](..).
 
 
 ----
