@@ -3,8 +3,7 @@
 
 # Architect Role
 
-<!--![Icon](architect-role.png)-->
-<img src="architect-role.png">
+![Icon](architect-role.png)
 
 The architect is responsible for the structural design of digital systems
 ensuring it is fit for purpose, resilient, secure and cost effective.
@@ -32,7 +31,9 @@ These architects then complement the architects assigned to digital services.
 
 * [Extensions to the architect role for privacy](../../data-privacy-pack/role-extensions-for-privacy.md)
 
-
+----
+* [Return to main article](.)
+* [Return to home](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

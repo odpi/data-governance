@@ -45,6 +45,9 @@ Desired Outcome:
 * Fully automated operations with appropriate alerting and diagnostics.
 * Time to work on new projects that expand his skills.
 
+----
+* [Return to Coco Pharmaceuticals Personas](.)
+* [Return to Coco Pharmaceuticals Overview](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

@@ -50,6 +50,9 @@ Desired Outcome:
 by the FDA, but also the incidental detail and additional insight
 that the team discovered during the trial.
 
+----
+* [Return to Coco Pharmaceuticals Personas](.)
+* [Return to Coco Pharmaceuticals Overview](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

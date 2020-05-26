@@ -22,3 +22,10 @@ The agenda for the evening is as follows:
 * 8:30pm Close
 
 Publicity link: https://www.meetup.com/Big-Data-Developers-in-NYC/events/253974350/
+
+----
+Return to [Workshops](..)
+
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.

@@ -54,7 +54,9 @@ Desired Outcome:
 of fraudulent activity.
 * The company learns from this and puts in place proper anti-fraud procedures.
 
-
+----
+* [Return to Coco Pharmaceuticals Personas](.)
+* [Return to Coco Pharmaceuticals Overview](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

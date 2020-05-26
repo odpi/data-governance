@@ -28,7 +28,7 @@ The maturity levels are:
 
 * **[Data Awareness](Data-Awareness.md)** - where is the organization's data and what does it contain?
 * **[Governance Awareness](Governance-Awareness.md)** - how should data be governed?
-* **[Emdedded Governance](Embedded-Governance.md)** - how can governance be automated?
+* **[Embedded Governance](Embedded-Governance.md)** - how can governance be automated?
 * **[Business Driven Governance](Business-Driven-Governance.md)** - how can the business leaders take ownership of data and governance?
 * **[Data Citizenship](Data-Citizenship.md)** - how can every employee, system and server get the data they need, every day?
 
@@ -37,6 +37,11 @@ You will notice that the number of integrations between tools,
 engines and metadata repositories grows with each level of maturity.
 [ODPi Egeria](https://egeria.odpi.org/)
 provides open standards and services to simplify this integration.
+
+
+----
+Return to [Guidance on Governance](..).
+
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

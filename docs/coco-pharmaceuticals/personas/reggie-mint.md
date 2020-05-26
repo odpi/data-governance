@@ -50,6 +50,9 @@ is using is correct.
 * He wants to resolve the fraud investigation and be sure it
 can not happen again.
 
+----
+* [Return to Coco Pharmaceuticals Personas](.)
+* [Return to Coco Pharmaceuticals Overview](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

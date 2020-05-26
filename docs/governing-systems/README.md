@@ -16,7 +16,7 @@ systems are called the governing systems.  They support the
 business systems (that is, the governed systems).
 See figure 1.
 
-![Figure 1](systems-of-an-organization.png)
+![Figure 1](systems-of-an-organization.png#pagewidth)
 > Figure 1: Systems of an organization
 
 Ideally governance is embedded in the daily work of the
@@ -38,7 +38,7 @@ Figure 2 details the type of capabilities provided by the governing
 systems shown in green.  The business systems are shown in blue.
 
 
-![Figure 2](capabilities-of-the-governing-systems.png)
+![Figure 2](capabilities-of-the-governing-systems.png#pagewidth)
 > Figure 2: Capabilities of the governing systems
 
 
@@ -49,6 +49,13 @@ their relationships and the activity related to their
 management.
 This knowledge base is called the asset catalog
 and it is one of the functions provided by a metadata repository. 
+
+
+
+----
+Return to [Guidance on Governance](..).
+
+
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

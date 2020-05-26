@@ -57,7 +57,7 @@ all patient records maintained during clinical trials.
 
 ## The scenarios
 
-The [scenarios](scenarios/README.md) follow the Coco Pharmaceutical personas as they work to
+The [scenarios](scenarios) follow the Coco Pharmaceutical personas as they work to
 set up their new roles and meet the challenges their new responsibilities
 bring.  Examples include:
 
@@ -70,8 +70,11 @@ bring.  Examples include:
 
 ## More information
 
-* [Detailed descriptions of the personas](personas/README.md)
-* [Roles verses Personas](roles-vs-personas/README.md)
+* [Detailed descriptions of the personas](personas)
+* [Roles verses Personas](roles-vs-personas)
+
+----
+Return to [Guidance on Governance](..).
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

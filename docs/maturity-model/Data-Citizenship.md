@@ -10,15 +10,19 @@ need to be integrated with the data catalog.
 
 This is shown in figure 1.
 
-![Figure 1](governance-maturity-model-Data-Citizenship.png)
+![Figure 1](governance-maturity-model-Data-Citizenship.png#pagewidth)
 > **Figure 1:** Capabilities needed to achieve Data Citizenship
 
 Achieving data citizenship creates huge value for an organization.
-At this point it can claim it is truely data driven and can confidently may use of advanced techniques such as
+At this point it can claim it is truly data driven and can confidently may use of advanced techniques such as
 natural language processing and artificial intelligence.  However there is a cost behind this benefit due to the metadata
 integration and synchronization required.
 
 [Using ODPI Egeria can help ...](Data-Citizenship-with-Egeria.md).
+
+----
+* [Return to main article](.)
+* [Return to home](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

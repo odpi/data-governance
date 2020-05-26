@@ -48,6 +48,9 @@ Desired Outcome:
 * Tanya wants to be sure that the data collected in the clinical
 trials is accurate and complete.
 
+----
+* [Return to Coco Pharmaceuticals Personas](.)
+* [Return to Coco Pharmaceuticals Overview](..)
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

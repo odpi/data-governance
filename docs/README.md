@@ -36,7 +36,7 @@ The GoG considers (1) the people involved, (2) the data they need
 to make good decisions, (3) the processes they need to follow and (4)
 the technology that automates much of the routine work.
 
-![Figure 1](governance-components.png)
+![Figure 1](governance-components.png#pagewidth)
 > Figure 1: The components of a governance program
 
 The guidance is in two streams.  There is a theoretical set of guidance that

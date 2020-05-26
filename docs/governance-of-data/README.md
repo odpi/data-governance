@@ -53,6 +53,10 @@ The organization needs to define the precise responsibilities of
 people that hold copies of data and the requirements that they must fulfil.
 
 
+----
+Return to [Guidance on Governance](..).
+
+
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),

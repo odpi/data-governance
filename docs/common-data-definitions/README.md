@@ -36,7 +36,7 @@ Once the new capability is running, the IT infrastructure that is supporting it 
 
 Figure 1 summarizes this process for using these common definitions.
 
-![Figure 1](using-common-data-definitions.png)
+![Figure 1](using-common-data-definitions.png#pagewidth)
 > Figure 1: process for using common data definitions
 
 The four boxes in figure 1 show the activity around managing the common definitions and below them are
@@ -61,6 +61,10 @@ governance in the production systems.
 
 * [Open metadata for common data definitions](open-metadata-for-common-definitions.md)
 * [Common Information Models for an open, analytical and agile world](http://www.ibmpressbooks.com/store/common-information-models-for-an-open-analytical-and-9780133366341)
+
+
+----
+Return to [Guidance on Governance](..).
 
 
 ----

@@ -23,8 +23,12 @@ For Coco Pharmaceuticals, Jules and Erin decide they will:
 
 Figure 1 shows the over all process for using these common definitions.
 
-![Figure 1](using-common-data-definitions.png)
+![Figure 1](using-common-data-definitions.png#pagewidth)
 > Figure 1: process for using common data definitions
+
+
+----
+Return to [Scenarios](..).
 
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
