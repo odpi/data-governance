@@ -1,0 +1,393 @@
+05/26/2020    12:03:07 PM    from Susan Malaika (IBM) to Everyone:	Recording started	
+05/26/2020    12:03:31 PM    from Susan Malaika (IBM) to Everyone:	Egeria Introduction	
+05/26/2020    12:05:55 PM    from Susan Malaika (IBM) to Everyone:	Please make sure you are in the slack  Slack https://slack.odpi.org/ Channel #egeria-dojo-live	
+05/26/2020    12:06:41 PM    from Susan Malaika (IBM) to Everyone:	are you all familiar with git? 	
+05/26/2020    12:07:06 PM    from Sagarika Mukesh (IBM) to Everyone:	Yes	
+05/26/2020    12:07:08 PM    from Shahir Daya (IBM) to Everyone:	Yes	
+05/26/2020    12:07:50 PM    from Ayoub RIHI (External) to Everyone:	yes	
+05/26/2020    12:08:02 PM    from Hibatallah Kabbaj (External) to Everyone:	Yes	
+05/26/2020    12:09:15 PM    from SUKUMAR BERI (IBM) to Everyone:	Yes	
+05/26/2020    12:10:48 PM    from Nigel Jones (IBM) to Everyone:	We also have slack channels at odpi.slack.com including a specific channel #egeria-dojo-live to support these sessions	
+05/26/2020    12:12:13 PM    from Susan Malaika (IBM) to Everyone:	Yes - Please make sure you are in the slack  Slack https://slack.odpi.org/ Channel #egeria-dojo-live	
+05/26/2020    12:15:36 PM    from Susan Malaika (IBM) to Everyone:	Mandy is showing https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/	
+05/26/2020    12:18:01 PM    from Susan Malaika (IBM) to Everyone:	Now https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/egeria-dojo-day-1-1-introduction.html 	
+05/26/2020    12:19:26 PM    from Susan Malaika (IBM) to Everyone:	Slides here https://github.com/odpi/data-governance/blob/master/workshops/may-2020/egeria-dojo-day-1-1-introduction.pptx	
+05/26/2020    12:23:53 PM    from Susan Malaika (IBM) to Everyone:	Repasting : Please make sure you are in the slack https://slack.odpi.org/ Channel #egeria-dojo-live	
+05/26/2020    12:26:54 PM    from Ayoub RIHI (External) to Everyone:	We can't see the shared screen	
+05/26/2020    12:28:26 PM    from Susan Malaika (IBM) to Everyone:	@yaoub - can you see the screen now?	
+05/26/2020    12:28:40 PM    from Ayoub RIHI (External) to Everyone:	No	
+05/26/2020    12:29:07 PM    from Susan Malaika (IBM) to Everyone:	I can see it - maybe leave and rejoin the meeting?	
+05/26/2020    12:29:16 PM    from Ayoub RIHI (External) to Everyone:	ok	
+05/26/2020    12:30:24 PM    from Ayoub RIHI (External) to Everyone:	Its ok now thank you!	
+05/26/2020    12:33:39 PM    from Susan Malaika (IBM) to Everyone:	Good @ayoub 	
+05/26/2020    12:34:08 PM    from Susan Malaika (IBM) to Everyone:	This is what Mandy is sharing  https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/	
+05/26/2020    12:34:31 PM    from Susan Malaika (IBM) to Everyone:	Presentation  https://github.com/odpi/data-governance/blob/master/workshops/may-2020/egeria-dojo-day-1-1-introduction.pptx	
+05/26/2020    12:47:45 PM    from Susan Malaika (IBM) to Everyone:	I think we are here now https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/egeria-dojo-day-1-2-project-introduction.html	
+05/26/2020    12:48:52 PM    from Sagarika Mukesh (IBM) to Everyone:	No metadata	
+05/26/2020    12:48:54 PM    from TRINETTE BROWNHILL (IBM) to Everyone:	metadata - yes	
+05/26/2020    12:48:54 PM    from Yogesh Singh (IBM) to Everyone:	no metadata	
+05/26/2020    12:48:54 PM    from Shahir Daya (IBM) to Everyone:	No	
+05/26/2020    12:48:56 PM    from JEREMY NILMEIER (IBM) to Everyone:	no	
+05/26/2020    12:49:01 PM    from BRIAN GILLIKIN (IBM) to Everyone:	Yes	
+05/26/2020    12:49:02 PM    from Hibatallah Kabbaj (External) to Everyone:	no	
+05/26/2020    12:49:03 PM    from Ayoub RIHI (External) to Everyone:	no	
+05/26/2020    12:49:04 PM    from Lee Zhang (IBM) to Everyone:	no	
+05/26/2020    12:49:05 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	yes	
+05/26/2020    12:49:11 PM    from RAHUL AKOLKAR (IBM) to Everyone:	yes (metadata)	
+05/26/2020    12:49:14 PM    from alex plenty (External) to Everyone:	yes	
+05/26/2020    12:53:30 PM    from Yogesh Singh (IBM) to Everyone:	Which of the following are part of the Open Metadata Manifesto:
+    Metadata needs to be centralized so it can be managed.
+    Maintenance of metadata must be automated.
+    The availability of metadata management must become ubiquitous.
+    Metadata access must become open and remotely accessible.
+	
+05/26/2020    12:54:32 PM    from Shahir Daya (IBM) to Everyone:	b, c, d	
+05/26/2020    12:54:42 PM    from Sagarika Mukesh (IBM) to Everyone:	All except 1?	
+05/26/2020    12:54:48 PM    from Yogesh Singh (IBM) to Everyone:	same b,c,d	
+05/26/2020    12:55:01 PM    from Yogesh Singh (IBM) to Everyone:	Name 3 tools that could connect to Egeria.	
+05/26/2020    12:55:16 PM    from alex plenty (External) to Everyone:	ATLAS	
+05/26/2020    12:55:26 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	IGC	
+05/26/2020    12:56:05 PM    from Susan Malaika (IBM) to Everyone:	Information Governance Catalog	
+05/26/2020    12:56:05 PM    from Shahir Daya (IBM) to Everyone:	ETL tools	
+05/26/2020    12:56:24 PM    from Ayoub RIHI (External) to Everyone:	ITIL	
+05/26/2020    12:56:27 PM    from Yogesh Singh (IBM) to Everyone:	Name a metadata standard.	
+05/26/2020    12:58:06 PM    from Susan Malaika (IBM) to Everyone:	  Slack https://slack.odpi.org/ Channel #egeria-dojo-live	
+05/26/2020    12:58:13 PM    from JEREMY NILMEIER (IBM) to Everyone:	I can't find it either	
+05/26/2020    12:58:44 PM    from Susan Malaika (IBM) to Everyone:	  Slack https://slack.odpi.org/ Channel #egeria-dojo-live	
+05/26/2020    13:01:27 PM    from TRINETTE BROWNHILL (IBM) to Everyone:	repositories: https://github.com/odpi	
+05/26/2020    13:03:17 PM    from Susan Malaika (IBM) to Everyone:	Jeremy - please join  Slack https://slack.odpi.org/ 	
+05/26/2020    13:04:10 PM    from JEREMY NILMEIER (IBM) to Everyone:	not yet...	
+05/26/2020    13:05:18 PM    from Susan Malaika (IBM) to Everyone:	Recording 1 ended	
+05/26/2020    13:13:32 PM    from alex plenty (External) to Everyone:	hi from the git hub assemblies, we need to download the xml files, right? how - sorry im new to git
+05/26/2020    13:15:15 PM    from Mandy Chessell (IBM) to Everyone:	Hi Alex - need to download DockerDesktop and Postman	
+05/26/2020    13:16:08 PM    from Mandy Chessell (IBM) to Everyone:	Instruction are https://egeria.odpi.org/developer-resources/tools/Docker.html and https://egeria.odpi.org/developer-resources/tools/Postman.html	
+05/26/2020    13:17:22 PM    from Mandy Chessell (IBM) to Everyone:	The xml files in the assemblies are the control files used in our build process to create the install image - you don't need them	
+05/26/2020    13:17:53 PM    from alex plenty (External) to Everyone:	understand, thnks - getting docker desktop for Debian	
+05/26/2020    13:24:33 PM    from TRINETTE BROWNHILL (IBM) to Everyone:	contributor - yes	
+05/26/2020    13:25:14 PM    from Ayoub RIHI (External) to Everyone:	Contributor-True	
+05/26/2020    13:25:26 PM    from BRIAN GILLIKIN (IBM) to Everyone:	contributer, also yes	
+05/26/2020    13:25:30 PM    from RAHUL AKOLKAR (IBM) to Everyone:	already am, but not Egeria yet :-)	
+05/26/2020    13:25:56 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	contributor	
+05/26/2020    13:26:27 PM    from Hibatallah Kabbaj (External) to Everyone:	contributor	
+05/26/2020    13:30:50 PM    from Susan Malaika (IBM) to Everyone:	---------------------> Recording part 2 started	
+05/26/2020    13:38:32 PM    from Mandy Chessell (IBM) to Everyone:	https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/egeria-dojo-day-1-3-1-1-platform-set-up-prerequisites.html	
+05/26/2020    13:44:28 PM    from JEREMY NILMEIER (IBM) to Everyone:	I don't see gifted_lovelace in the docker desktop	
+05/26/2020    13:46:11 PM    from Shahir Daya (IBM) to Everyone:	@jeremy gifted_lovelace is a randomly generated name. Yours will be different.	
+05/26/2020    13:46:19 PM    from JEREMY NILMEIER (IBM) to Everyone:	oh wait I get a different name I see	
+05/26/2020    13:46:29 PM    from Shahir Daya (IBM) to Everyone:	Mine is serene_shockley	
+05/26/2020    13:46:30 PM    from JEREMY NILMEIER (IBM) to Everyone:	cool thank you	
+05/26/2020    13:49:14 PM    from Shahir Daya (IBM) to Everyone:	so at this point I'm blindly trying out APIs... don't really know what each one really means... I'm not sure. my guesses are any good at this point	
+05/26/2020    13:49:43 PM    from Mandy Chessell (IBM) to Everyone:	Better to follow the instructions in the tutorial and run the platform origin	
+05/26/2020    13:50:26 PM    from Mandy Chessell (IBM) to Everyone:	only the platform services and admin services will do anything as the others need a running server	
+05/26/2020    13:51:10 PM    from Shahir Daya (IBM) to Everyone:	got it... thaNKS	
+05/26/2020    13:51:22 PM    from Mandy Chessell (IBM) to Everyone:	you should be seeing parameter error exceptions related to the server not running from the other services	
+05/26/2020    13:52:54 PM    from Mandy Chessell (IBM) to Everyone:	Get to pay with the others later - the biggest module is the repositroy services - it handles the exchange of metadata between modules - its local repository services are only used by other metadata repositories during federated queries	
+05/26/2020    13:53:46 PM    from Mandy Chessell (IBM) to Everyone:	the OMAS interfaces are for tools/platforms/engines - and are more course-grained and targetted	
+05/26/2020    13:59:46 PM    from Sagarika Mukesh (IBM) to Everyone:	We need to create an account with Postman?	
+05/26/2020    14:00:01 PM    from Mandy Chessell (IBM) to Everyone:	no need	
+05/26/2020    14:04:50 PM    from Mandy Chessell (IBM) to Everyone:	:)
+05/26/2020    14:07:36 PM    from Yogesh (External) to Everyone:	Done with the docket and postman install	
+05/26/2020    14:07:52 PM    from Mandy Chessell (IBM) to Everyone:	Cool :)	
+05/26/2020    14:08:00 PM    from Mandy Chessell (IBM) to Everyone:	How about the questions?	
+05/26/2020    14:08:36 PM    from SILAS KARIUKI (IBM) to Everyone:	I am still on docker install  but will catch up	
+05/26/2020    14:11:27 PM    from Gul (External) to Everyone:	done.	
+05/26/2020    14:12:28 PM    from Susan Malaika (IBM) to Everyone:	we dont hear u mandy	
+05/26/2020    14:13:07 PM    from Shahir Daya (IBM) to Everyone:	Done	
+05/26/2020    14:13:12 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	done	
+05/26/2020    14:13:12 PM    from Sagarika Mukesh (IBM) to Everyone:	Done	
+05/26/2020    14:17:10 PM    from Ayoub RIHI (External) to Everyone:	done	
+05/26/2020    14:17:37 PM    from Sagarika Mukesh (IBM) to Everyone:	What's the domain for Postman?	
+05/26/2020    14:20:07 PM    from Yogesh (External) to Everyone:	Can't parse json while executing origin api	
+05/26/2020    14:20:27 PM    from Yogesh (External) to Everyone:	Used garygeeke as user id	
+05/26/2020    14:22:37 PM    from Kartik Kumar Choudhary (External) to Everyone:	Yes please increase	
+05/26/2020    14:24:06 PM    from Gul (External) to Everyone:	I am getting also: json error "can't parse JSON.  Raw result:
+
+ODPi Egeria OMAG Server Platform (version 1.8-SNAPSHOT)"	
+05/26/2020    14:29:10 PM    from Mandy Chessell (IBM) to Everyone:	What is the message from the OMAG Server Platform that says it is ready to process requests?	
+05/26/2020    14:29:22 PM    from Shahir Daya (IBM) to Everyone:	OMAG server platform ready for more configuration	
+05/26/2020    14:29:24 PM    from Mandy Chessell (IBM) to Everyone:	How do you find out the version of Egeria running in an OMAG Server Platform?	
+05/26/2020    14:30:12 PM    from Gul (External) to Everyone:	version 1.8	
+05/26/2020    14:30:59 PM    from Mandy Chessell (IBM) to Everyone:	What is the url to view the Swagger UI page for the OMAG Server Platform?	
+05/26/2020    14:31:01 PM    from Ayoub RIHI (External) to Everyone:	version 1.8-SNAPSHOT	
+05/26/2020    14:31:11 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	http://localhost:18080/swagger-ui/index.html	
+05/26/2020    14:32:04 PM    from Mandy Chessell (IBM) to Everyone:	https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/egeria-dojo-day-1-3-1-2-configuring-the-platform.html	
+05/26/2020    14:35:40 PM    from Ayoub RIHI (External) to Everyone:	for me the server is running on 8080 port not 18080 is it normal ?	
+05/26/2020    14:36:23 PM    from Ayoub RIHI (External) to Everyone:	http://localhost:8080/swagger-ui/index.html	
+05/26/2020    14:37:48 PM    from Ayoub RIHI (External) to Everyone:	i cant hear u well	
+05/26/2020    14:40:00 PM    from Ayoub RIHI (External) to Everyone:	oh yeah	
+05/26/2020    14:40:06 PM    from Ayoub RIHI (External) to Everyone:	ur right	
+05/26/2020    14:40:29 PM    from Ayoub RIHI (External) to Everyone:	sudo docker run  -p 8080:8080  odpi/egeria:latest	
+05/26/2020    14:40:37 PM    from Ayoub RIHI (External) to Everyone:	i did this thats why 	
+05/26/2020    14:41:51 PM    from Ayoub RIHI (External) to Everyone:	thank you 	
+05/26/2020    14:42:44 PM    from Lee Zhang (IBM) to Everyone:	in the postman, how do I find " by locating the Get Server Origin request in the Egeria-platform-services collection"	
+05/26/2020    14:43:58 PM    from Ayoub RIHI (External) to Everyone:	yes 	
+05/26/2020    14:44:06 PM    from Sagarika Mukesh (IBM) to Everyone:	completely blank	
+05/26/2020    14:45:23 PM    from Susan Malaika (IBM) to Everyone:	Please be sure you are in Slack https://slack.odpi.org/ Channel #egeria-dojo-live	
+05/26/2020    14:46:23 PM    from Shahir Daya (IBM) to Everyone:	nedd a few more minutes please	
+05/26/2020    14:46:26 PM    from Susan Malaika (IBM) to Everyone:	 Slack https://slack.odpi.org/ Channel #egeria-dojo-live	
+05/26/2020    14:46:34 PM    from Ayoub RIHI (External) to Everyone:	few moment to rearrange	
+05/26/2020    14:46:55 PM    from Hibatallah Kabbaj (External) to Everyone:	few more minutes 	
+05/26/2020    14:46:58 PM    from Hibatallah Kabbaj (External) to Everyone:	pls	
+05/26/2020    14:47:14 PM    from JEREMY NILMEIER (IBM) to Everyone:	I have only 4 collections...is that right?	
+05/26/2020    14:47:28 PM    from Nigel Jones (IBM) to Everyone:	should be 8 in total - though you don't need any immediately	
+05/26/2020    14:47:32 PM    from Nigel Jones (IBM) to Everyone:	(all)	
+05/26/2020    14:48:13 PM    from JEREMY NILMEIER (IBM) to Everyone:	somehow it thinks I'm importing duplicates or something.  Ok I'll keep trying	
+05/26/2020    14:48:23 PM    from Nigel Jones (IBM) to Everyone:	we list the ones for the tutorial at https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/postman-tutorial/	
+05/26/2020    14:52:24 PM    from Shahir Daya (IBM) to Everyone:	I managed to configure the document store and security connection but now I get 403 for everything 	
+05/26/2020    14:52:27 PM    from SILAS KARIUKI (IBM) to Everyone:	yes	
+05/26/2020    14:53:23 PM    from Shahir Daya (IBM) to Everyone:	{
+    "class": "ConnectionResponse",
+    "relatedHTTPCode": 403,
+    "exceptionClassName": "org.odpi.openmetadata.frameworks.connectors.ffdc.UserNotAuthorizedException",
+    "actionDescription": "validateUserAsOperatorForPlatform",
+    "exceptionErrorMessage": "OMAG-PLATFORM-SECURITY-403-001  User me is not authorized to issue request to http://localhost:18080",
+    "exceptionErrorMessageId": "OMAG-PLATFORM-SECURITY-403-001 ",
+    "exceptionErrorMessageParameters": [
+        "me",
+        "http://localhost:18080"
+    ],
+    "exceptionSystemAction": "The system is unable to process a request from the user because they do not have access to the requested platform services.  The request fails with a UserNotAuthorizedException exception.",
+    "exceptionUserAction": "Determine if this is a configuration error, a mistake or the platform is under attack.  Correct any configuration error and re-run the request, if it is a valid request; otherwise contact your security team."
+}	
+05/26/2020    14:54:29 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	what is the full physical path of omag.server.{serverName}.config?	
+05/26/2020    14:56:31 PM    from Susan Malaika (IBM) to Everyone:	go to docker container and press cli button .... 	
+05/26/2020    14:56:46 PM    from Susan Malaika (IBM) to Everyone:	get terminal winow - do ls	
+05/26/2020    14:57:14 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	yes	
+05/26/2020    14:57:15 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	~ $ pwd
+/opt/egeria
+~ $ ls -l
+total 36
+-rw-r--r--    1 egeria   egeria       11357 May 26 10:13 LICENSE
+-rw-r--r--    1 egeria   egeria         268 May 26 10:13 NOTICE
+drwxr-xr-x    2 egeria   egeria        4096 May 26 10:13 clients
+drwxr-xr-x    2 egeria   egeria        4096 May 26 10:13 conformance-suite
+drwxr-xr-x    4 egeria   egeria        4096 May 26 10:13 server
+drwxr-xr-x    3 egeria   egeria        4096 May 26 10:13 user-interface
+drwxr-xr-x    2 egeria   egeria        4096 May 26 10:13 utilities
+~ $ find . -name "*omag*"
+~ $	
+05/26/2020    14:59:44 PM    from Nigel Jones (IBM) to Everyone:	Have you created any server definitions yet? this is the next step.. it is only at this point the server config is created	
+05/26/2020    15:03:03 PM    from SILAS KARIUKI (IBM) to Everyone:		},
+		{
+			"key": "igc_kafka",
+			"value": "ibm-infosvr:59092",
+			"enabled": true
+		},
+		{
+			"key": "atlas_host",
+			"value": "apache-atlas",
+			"enabled": true
+		},
+		{
+			"key": "atlas_port",
+			"value": "21000",
+			"enabled": true
+		},
+		{
+			"key": "atlas_user",
+			"value": "admin",
+			"enabled": true
+		},
+		{
+			"key": "atlas_password",
+			"value": "admin",
+			"enabled": true
+		},
+		{
+			"key": "atlas_kafka",
+			"value": "localhost:9026",
+			"enabled": true
+		},
+		{
+			"key": "max_page_size",
+			"value": "100",
+			"enabled": true
+		},
+		{
+			"key": "access_service",
+			"value": "stewardship-action",
+			"enabled": true
+		},
+		{
+			"key": "organization_name",
+			"value": "myOrg",
+			"enabled": true
+		},
+		{
+			"key": "mc_name",
+			"value": "myMetadataCollection",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-05-25T22:27:25.589Z",
+	"_postman_exported_using": "Postman/7.24.0"	
+05/26/2020    15:03:45 PM    from SILAS KARIUKI (IBM) to Everyone:	yes is this what I am supposed to get 	
+05/26/2020    15:04:03 PM    from SILAS KARIUKI (IBM) to Everyone:	it is the json file, am not sure	
+05/26/2020    15:04:36 PM    from SILAS KARIUKI (IBM) to Everyone:	yes	
+05/26/2020    15:05:14 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	ok, thanks @nigel	
+
+05/26/2020    15:13:29 PM    from Mandy Chessell (IBM) to Everyone:	POst tutorial with links to the collections https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/postman-tutorial/	
+05/26/2020    15:15:24 PM    from SILAS KARIUKI (IBM) to Everyone:	It states that it has been imported but the listing is not showing as your screen fully populated	
+05/26/2020    15:15:56 PM    from Mandy Chessell (IBM) to Everyone:	https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/egeria-dojo-day-1-3-1-2-configuring-the-platform.html	
+05/26/2020    15:18:05 PM    from alex plenty (External) to Everyone:	done	
+05/26/2020    15:18:07 PM    from Ayoub RIHI (External) to Everyone:	done	
+05/26/2020    15:18:09 PM    from SILAS KARIUKI (IBM) to Everyone:	I will follow on the recording cause I still way out	
+05/26/2020    15:18:27 PM    from SILAS KARIUKI (IBM) to Everyone:	I missed the swagger bit 	
+05/26/2020    15:18:32 PM    from SILAS KARIUKI (IBM) to Everyone:	It is not doing it	
+05/26/2020    15:18:48 PM    from SILAS KARIUKI (IBM) to Everyone:	what do you mean changing the the enviroments	
+05/26/2020    15:18:57 PM    from SILAS KARIUKI (IBM) to Everyone:	so I changed it to egeria	
+05/26/2020    15:19:02 PM    from SILAS KARIUKI (IBM) to Everyone:	it is changed	
+05/26/2020    15:19:29 PM    from Shahir Daya (IBM) to Everyone:	done	
+05/26/2020    15:19:37 PM    from SILAS KARIUKI (IBM) to Everyone:	I followed that process but It still doesnt show let me try and restart the postman	
+05/26/2020    15:22:36 PM    from Nigel Jones (IBM) to Everyone:	The environment needs to be selected but shouldn’t affect the collections you see (it just means  they won’t work).
+There should be 8.
+If you wasn’t to reset in middle top you should be able to create a new clean postman workspace though I would just try importing again	
+05/26/2020    15:27:34 PM    from JEREMY NILMEIER (IBM) to Everyone:	can you post link to page?	
+05/26/2020    15:27:48 PM    from Ayoub RIHI (External) to Everyone:	yes please	
+05/26/2020    15:27:52 PM    from Mandy Chessell (IBM) to Everyone:	https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/egeria-dojo-day-1-3-1-3-configuring-a-server.html	
+05/26/2020    15:32:32 PM    from Lee Zhang (IBM) to Everyone:	where do I find query for "Setting up the default event bus" in Postman?
+05/26/2020    15:36:37 PM    from Shahir Daya (IBM) to Everyone:	{
+    "timestamp": "2020-05-26T14:35:16.851+00:00",
+    "status": 404,
+    "error": "Not Found",
+    "message": "",
+    "path": "/open-metadata/admin-services/users/garygeeke/servers/myserver/server-url-root/server-url-root-for-caller"
+}	
+05/26/2020    15:39:09 PM    from Shahir Daya (IBM) to Everyone:	is this correct	
+05/26/2020    15:39:11 PM    from Shahir Daya (IBM) to Everyone:	{{baseURL}}/open-metadata/admin-services/users/{{user}}/servers/{{server}}/server-url-root-for-caller	
+05/26/2020    15:39:44 PM    from Lee Zhang (IBM) to Everyone:	Got the same error too:	
+05/26/2020    15:39:44 PM    from Mandy Chessell (IBM) to Everyone:	yes	
+05/26/2020    15:39:47 PM    from Lee Zhang (IBM) to Everyone:	{
+    "timestamp": "2020-05-26T14:38:09.603+00:00",
+    "status": 404,
+    "error": "Not Found",
+    "message": "",
+    "path": "/open-metadata/admin-services/users/garygeeke/servers/myMetadataServer/server-url-root/server-url-root-for-caller"
+}	
+05/26/2020    15:40:57 PM    from Shahir Daya (IBM) to Everyone:	
+    "class": "VoidResponse",
+    "relatedHTTPCode": 400,
+    "exceptionClassName": "org.odpi.openmetadata.adminservices.ffdc.exception.OMAGInvalidParameterException",
+    "exceptionCausedBy": "org.odpi.openmetadata.frameworks.connectors.ffdc.ConnectionCheckedException",
+    "actionDescription": "setServerURLRoot",
+    "exceptionErrorMessage": "OMAG-ADMIN-400-013 The OMAG server myserver is not able to open its configuration file setServerURLRoot due to the following error: org.odpi.openmetadata.frameworks.connectors.ffdc.ConnectionCheckedException which included a message OCF-CONNECTION-400-005 Unknown Connector Provider class org.odpi.openmetadata.adapters.adminservices.configurationstore.encryptedfile.EncryptedFileBasedServerConfigStoreProvider passed in connection <Unknown>",
+    "exceptionErrorMessageId": "OMAG-ADMIN-400-013",
+    "exceptionErrorMessageParameters": [
+        "myserver",
+        "setServerURLRoot",
+        "org.odpi.openmetadata.frameworks.connectors.ffdc.Connectio	
+05/26/2020    15:43:38 PM    from Mandy Chessell (IBM) to Everyone:	To change the configuration document store to the default value run "Delete Configuration Document Store"	
+05/26/2020    15:43:58 PM    from Lee Zhang (IBM) to Everyone:	{
+    "timestamp": "2020-05-26T14:42:39.502+00:00",
+    "status": 404,
+    "error": "Not Found",
+    "message": "",
+    "path": "/open-metadata/admin-services/users/garygeeke/servers/myMetadataServer/server-url-root/server-url-root-for-caller"
+}	
+05/26/2020    15:44:08 PM    from Shahir Daya (IBM) to Everyone:	{{baseURL}}/open-metadata/admin-services/users/{{user}}/servers/{{server}}/server-url-root-for-caller	
+05/26/2020    15:45:07 PM    from Lee Zhang (IBM) to Everyone:	thank you	
+05/26/2020    15:47:56 PM    from SILAS KARIUKI (IBM) to Everyone:	please reshare the page in the background	
+05/26/2020    15:50:12 PM    from SILAS KARIUKI (IBM) to Everyone:	please share the url  here kindly	
+05/26/2020    15:50:42 PM    from Shahir Daya (IBM) to Everyone:	{
+    "timestamp": "2020-05-26T14:48:35.535+00:00",
+    "status": 400,
+    "error": "Bad Request",
+    "message": "",
+    "path": "/open-metadata/admin-services/users/garygeeke/servers/myserver/max-page-size"
+}	
+05/26/2020    15:52:58 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	@shahir, the error is because postman uses max-page-size instead max_page_size	
+05/26/2020    15:53:24 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	could you chenge it in the url? it is in "red"	
+05/26/2020    15:55:00 PM    from Shahir Daya (IBM) to Everyone:	@Francisco Thank You!	
+05/26/2020    15:57:48 PM    from Lee Zhang (IBM) to Everyone:	where to find query for the last 3 tasks?	
+05/26/2020    15:57:51 PM    from Lee Zhang (IBM) to Everyone:	Add a graph local repository
+Configure the *Asset Owner Open Metadata Access Service (OMAS)
+Set up the Coco Pharmaceutical Server Security connector to provide authorization checks for inbound REST API calls.	
+05/26/2020    15:59:32 PM    from Lee Zhang (IBM) to Everyone:	thank you	
+05/26/2020    16:00:09 PM    from Lee Zhang (IBM) to Everyone:	sorry, what is this folder?	
+05/26/2020    16:01:49 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	for me, it was useful the filter box at left-top of postman, "filter" and write some keys, like 'graph'	
+05/26/2020    16:07:32 PM    from Lee Zhang (IBM) to Everyone:	"{{baseURL}}/open-metadata/admin-services/users/{{user}}/servers/{{server}}/local-repository/mode/local-graph-repository" failed with error	
+05/26/2020    16:07:48 PM    from Lee Zhang (IBM) to Everyone:	{
+    "class": "VoidResponse",
+    "relatedHTTPCode": 400,
+    "exceptionClassName": "org.odpi.openmetadata.adminservices.ffdc.exception.OMAGInvalidParameterException",
+    "exceptionCausedBy": "org.odpi.openmetadata.frameworks.connectors.ffdc.ConnectionCheckedException",
+    "actionDescription": "getServerSecurityConnector",
+    "exceptionErrorMessage": "OMAG-PLATFORM-SECURITY-400-002  The OMAG server myMetadataServer has been configured with a bad connection to its security connector.  Error message is OCF-CONNECTION-400-005 Unknown Connector Provider class org.odpi.openmetadata.metadatasecurity.samples.OpenMetadataServerSecurityProvider passed in connection <Unknown>. Connection is Connection{displayName='null', description='null', connectorType=ConnectorType{displayName='null', description='null', connectorProviderClassName='org.odpi.openmetadata.metadatasecurity.samples.OpenMetadataServerSecurityProvider', recognizedAdditionalProperties=null, recognizedSecuredProperties=null, reco	
+05/26/2020    16:12:28 PM    from Lee Zhang (IBM) to Everyone:	Before the error, I run "{{baseURL}}/open-metadata/admin-services/users/{{user}}/servers/{{server}}/security/connection". Should I do tnis?	
+05/26/2020    16:13:42 PM    from Mandy Chessell (IBM) to Everyone:	org.odpi.openmetadata.metadatasecurity.samples.OpenMetadataServerSecurityProvider	
+05/26/2020    16:15:28 PM    from Mandy Chessell (IBM) to Everyone:	org.odpi.openmetadata.metadatasecurity.samples.CocoPharmaServerSecurityProvider	
+05/26/2020    16:19:07 PM    from Shahir Daya (IBM) to Everyone:	{
+    "class": "VoidResponse",
+    "relatedHTTPCode": 400,
+    "exceptionClassName": "org.odpi.openmetadata.adminservices.ffdc.exception.OMAGInvalidParameterException",
+    "exceptionCausedBy": "org.odpi.openmetadata.frameworks.connectors.ffdc.ConnectionCheckedException",
+    "actionDescription": "getServerSecurityConnector",
+    "exceptionErrorMessage": "OMAG-PLATFORM-SECURITY-400-002  The OMAG server myserver has been configured with a bad connection to its security connector.  Error message is OCF-CONNECTION-400-005 Unknown Connector Provider class org.odpi.openmetadata.metadatasecurity.samples.OpenMetadataServerSecurityProvider passed in connection <Unknown>. Connection is Connection{displayName='null', description='null', connectorType=ConnectorType{displayName='null', description='null', connectorProviderClassName='org.odpi.openmetadata.metadatasecurity.samples.OpenMetadataServerSecurityProvider', recognizedAdditionalProperties=null, recognizedSecuredProperties=null, recognizedCo	
+05/26/2020    16:20:03 PM    from Shahir Daya (IBM) to Everyone:	{
+    "class": "VoidResponse",
+    "relatedHTTPCode": 500,
+    "exceptionClassName": "org.odpi.openmetadata.adminservices.ffdc.exception.OMAGConfigurationErrorException",
+    "exceptionCausedBy": "org.odpi.openmetadata.adminservices.ffdc.exception.OMAGInvalidParameterException",
+    "actionDescription": "clearServerSecurityConnection",
+    "exceptionErrorMessage": "OMAG-ADMIN-500-002 Method clearServerSecurityConnection returned an unexpected exception of org.odpi.openmetadata.adminservices.ffdc.exception.OMAGInvalidParameterException with message OMAG-PLATFORM-SECURITY-400-002  The OMAG server myserver has been configured with a bad connection to its security connector.  Error message is OCF-CONNECTION-400-005 Unknown Connector Provider class org.odpi.openmetadata.metadatasecurity.samples.OpenMetadataServerSecurityProvider passed in connection <Unknown>. Connection is Connection{displayName='null', description='null', connectorType=ConnectorType{displayName='null', description='null',	
+05/26/2020    16:23:52 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	yes	
+05/26/2020    16:23:57 PM    from Jakub Moravec (External) to Everyone:	yes	
+05/26/2020    16:24:05 PM    from BRIAN GILLIKIN (IBM) to Everyone:	done	
+05/26/2020    16:28:53 PM    from Mandy Chessell (IBM) to Everyone:	https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/egeria-dojo-day-1-3-2-4-second-server.html	
+05/26/2020    16:30:01 PM    from Susan Malaika (IBM) to Everyone:	--------------> Day 1 Recording 2 Stopped	
+05/26/2020    16:30:33 PM    from Shahir Daya (IBM) to Everyone:	I need step away for an hour for a meeting.  Will be back in 1 hour.	
+05/26/2020    16:30:52 PM    from Shahir Daya (IBM) to Everyone:	yes please	
+05/26/2020    16:30:55 PM    from Hibatallah Kabbaj (External) to Everyone:	yes	
+05/26/2020    16:30:56 PM    from Ayoub RIHI (External) to Everyone:	yes	
+05/26/2020    16:31:00 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	yes	
+05/26/2020    16:31:00 PM    from Lee Zhang (IBM) to Everyone:	thank you	
+05/26/2020    16:40:00 PM    from SILAS KARIUKI (IBM) to Everyone:	Error: connect ECONNREFUSED 127.0.0.1:18080	
+05/26/2020    16:40:54 PM    from Ayoub RIHI (External) to Everyone:	maybe the docker port is not set on 18080:8080	
+05/26/2020    16:57:54 PM    from JEREMY NILMEIER (IBM) to Everyone:	can you post a link to the page	
+05/26/2020    17:00:14 PM    from Sagarika Mukesh (IBM) to Everyone:	Works	
+05/26/2020    17:12:08 PM    from Mandy Chessell (IBM) to Everyone:	http://localhost:8888	
+05/26/2020    17:12:52 PM    from Mandy Chessell (IBM) to Everyone:	Sorry http://localhost:18888	
+05/26/2020    17:30:28 PM    from Lee Zhang (IBM) to Everyone:	thank you
+05/26/2020    17:39:04 PM    from Lee Zhang (IBM) to Everyone:	yaeh
+05/26/2020    17:39:13 PM    from JEREMY NILMEIER (IBM) to Everyone:	YES
+05/26/2020    17:39:18 PM    from JEREMY NILMEIER (IBM) to Everyone:	yes
+05/26/2020    17:39:26 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	yes
+05/26/2020    17:39:55 PM    from Lee Zhang (IBM) to Everyone:	could you please explain the cohort again?
+05/26/2020    17:44:17 PM    from Lee Zhang (IBM) to Everyone:	thank you
+05/26/2020    17:52:34 PM    from Lee Zhang (IBM) to Everyone:	is .cvs file an example of asset?
+05/26/2020    17:57:52 PM    from Mandy Chessell (IBM) to Everyone:	yes .csv is a type of data file which is a type of asset
+05/26/2020    17:57:55 PM    from Mandy Chessell (IBM) to Everyone:	https://egeria.odpi.org/open-metadata-implementation/access-services/docs/concepts/governance-zones/
+05/26/2020    17:59:13 PM    from Shahir Daya (IBM) to Everyone:	lost audi
+05/26/2020    17:59:21 PM    from Lee Zhang (IBM) to Everyone:	lost voice
+05/26/2020    18:00:05 PM    from Mandy Chessell (IBM) to Everyone:	The link above is a description of the governance zone
+05/26/2020    18:03:15 PM    from Ayoub RIHI (External) to Everyone:	yes
+05/26/2020    18:12:32 PM    from Ayoub RIHI (External) to Everyone:	thank you
+05/26/2020    18:13:37 PM    from Shahir Daya (IBM) to Everyone:	Really good. Easy to follow. Great hands-on.
+05/26/2020    18:14:15 PM    from Sagarika Mukesh (IBM) to Everyone:	Agreed...great session
+05/26/2020    18:14:50 PM    from Shahir Daya (IBM) to Everyone:	What I would like to see is how do I start implementing Egeria. If there is nothing being used for metadata, data governance, data lineage, etc. how/where should one start?
+05/26/2020    18:15:29 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	it was a really interesting, and the documentation has a lot of detail, that it is important to improve knowledge
+05/26/2020    18:17:12 PM    from Susan Malaika (IBM) to Everyone:	Recording ended  - Docker Compose & Hands on Lab -----  Next section UIs 
+05/26/2020    18:20:00 PM    from Ayoub RIHI (External) to Everyone:	yes
+05/26/2020    18:20:58 PM    from JEREMY NILMEIER (IBM) to Everyone:	when does it start again?
+05/26/2020    18:21:07 PM    from Mandy Chessell (IBM) to Everyone:	25 mins
+05/26/2020    18:21:23 PM    from JEREMY NILMEIER (IBM) to Everyone:	thank you
+05/26/2020    18:21:48 PM    from Ayoub RIHI (External) to Everyone:	25min remaining u mean
+05/26/2020    18:22:17 PM    from Mandy Chessell (IBM) to Everyone:	yes - then we start again
+05/26/2020    18:22:23 PM    from Ayoub RIHI (External) to Everyone:	thank you
+05/26/2020    18:35:45 PM    from Mandy Chessell (IBM) to Everyone:	@Shahir I agree we need that documentation - our usecases were original driven by big enterprises with lots of metadata - we are now looking at the bootstrapping usecases for organizations wantign to get started.  
+05/26/2020    18:43:07 PM    from Ayoub RIHI (External) to Everyone:	very well
+05/26/2020    18:49:32 PM    from Susan Malaika (IBM) to Everyone:	---------------> David Radley recording starting - user interfaces for egeria
+05/26/2020    18:49:54 PM    from Shahir Daya (IBM) to Everyone:	@Mandy, maybe I can connect with you after. I have a real (not hypothetical) situation at a large North American Bank where I would like. to consider using Egeria.  
+05/26/2020    19:11:31 PM    from Ayoub RIHI (External) to Everyone:	why do we need to create an instance? 
+05/26/2020    19:12:29 PM    from Ayoub RIHI (External) to Everyone:	its ok
+05/26/2020    19:12:51 PM    from Susan Malaika (IBM) to Everyone:	instance of a data type
+05/26/2020    19:13:03 PM    from Ayoub RIHI (External) to Everyone:	thank you
+05/26/2020    19:13:21 PM    from BRIAN GILLIKIN (IBM) to Everyone:	Thanks David!
+05/26/2020    19:13:25 PM    from Susan Malaika (IBM) to Everyone:	-------------end of user interfaces 
+05/26/2020    19:13:47 PM    from Susan Malaika (IBM) to Everyone:	--------------- recording in egeria community
+05/26/2020    19:14:40 PM    from Susan Malaika (IBM) to Everyone:	great sessions today 
+05/26/2020    19:23:18 PM    from Susan Malaika (IBM) to Everyone:	https://egeria.odpi.org/Community-Guide.html
+05/26/2020    19:29:24 PM    from Ayoub RIHI (External) to Everyone:	what a great day!! thank you all
+05/26/2020    19:29:33 PM    from Hibatallah Kabbaj (External) to Everyone:	yes, great sessions, thank you
+05/26/2020    19:30:38 PM    from Ayoub RIHI (External) to Everyone:	same time ? 

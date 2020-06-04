@@ -1,0 +1,96 @@
+05/27/2020    12:00:11 PM    from Shahir Daya (IBM) to Everyone:	Good morning
+05/27/2020    12:01:00 PM    from Ayoub Rihi (External) to Everyone:	yes
+05/27/2020    12:02:34 PM    from Susan Malaika (IBM) to Everyone:	Helllo - can you please check if you access this ? https://ibm.box.com/s/bvg2busm9zqnkmp4nlzjkgao67dck0zw
+05/27/2020    12:02:57 PM    from Ayoub Rihi (External) to Everyone:	yes
+05/27/2020    12:02:59 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	yes
+05/27/2020    12:03:00 PM    from Yogesh Singh (IBM) to Everyone:	yes
+05/27/2020    12:03:29 PM    from Susan Malaika (IBM) to Everyone:	So day 1 recordings are there - i'll make an explanation a bit later 
+05/27/2020    12:04:18 PM    from Ayoub Rihi (External) to Everyone:	same here
+05/27/2020    12:06:06 PM    from Susan Malaika (IBM) to Everyone:	https://ibm.box.com/s/bvg2busm9zqnkmp4nlzjkgao67dck0zw  - where the recordings 
+05/27/2020    12:06:08 PM    from alex plenty (External) to Everyone:	didnt try them sorry ran out of time
+05/27/2020    12:08:55 PM    from Susan Malaika (IBM) to Everyone:	https://ibm.box.com/s/bvg2busm9zqnkmp4nlzjkgao67dck0zw
+05/27/2020    12:13:12 PM    from Susan Malaika (IBM) to Everyone:	Review why notebooks are failing - check that 4Gig available to docker 
+05/27/2020    12:13:41 PM    from Susan Malaika (IBM) to Everyone:	$ Gig needed
+05/27/2020    12:17:22 PM    from Susan Malaika (IBM) to Everyone:	5 gig needed
+05/27/2020    12:17:59 PM    from Ayoub Rihi (External) to Everyone:	it stacks on the zookeeper1 while doing the docker-compose ....
+05/27/2020    12:20:08 PM    from Ayoub Rihi (External) to Everyone:	im gona put the screen on slack 
+05/27/2020    12:20:57 PM    from RAHUL AKOLKAR (IBM) to Everyone:	yes
+05/27/2020    12:21:02 PM    from Shahir Daya (IBM) to Everyone:	Yes
+05/27/2020    12:21:05 PM    from Ayoub Rihi (External) to Everyone:	NO
+05/27/2020    12:21:11 PM    from Hibatallah Kabbaj (External) to Everyone:	no
+05/27/2020    12:21:18 PM    from alex plenty (External) to Everyone:	made a video about egeria
+05/27/2020    12:24:50 PM    from Susan Malaika (IBM) to Everyone:	-----------------> Recording started - Philosophy of open source
+05/27/2020    12:24:57 PM    from Susan Malaika (IBM) to Everyone:	David Radley
+05/27/2020    12:45:42 PM    from JEREMY NILMEIER (IBM) to Everyone:	Very nice discussion of open source!
+05/27/2020    12:46:34 PM    from Susan Malaika (IBM) to Everyone:	100th person to fork egeria - today - Rahul 
+05/27/2020    13:02:31 PM    from Susan Malaika (IBM) to Everyone:	-----Recording starting ---------> Tools for open source 
+05/27/2020    13:46:34 PM    from Mandy Chessell (IBM) to Everyone:	What is the command to create a clean complete build of Egeria?
+05/27/2020    13:46:45 PM    from Ayoub Rihi (External) to Everyone:	mvn clean  egeria 
+05/27/2020    13:46:55 PM    from Shahir Daya (IBM) to Everyone:	mvn clen. install
+05/27/2020    13:47:05 PM    from Shahir Daya (IBM) to Everyone:	mvn clean install
+05/27/2020    13:48:55 PM    from Mandy Chessell (IBM) to Everyone:	How long does the complete build of Egeria take?
+05/27/2020    13:49:30 PM    from Mandy Chessell (IBM) to Everyone:	What is the Postman collection used for?
+05/27/2020    13:49:39 PM    from Ayoub Rihi (External) to Everyone:	collect a lot of requests
+05/27/2020    13:49:58 PM    from Mandy Chessell (IBM) to Everyone:	Which version of IntelliJ do you need to build contributions for Egeria?
+05/27/2020    13:51:31 PM    from Shahir Daya (IBM) to Everyone:	yes :)
+05/27/2020    13:51:31 PM    from Yogesh Singh (IBM) to Everyone:	yes
+05/27/2020    13:51:31 PM    from Ayoub Rihi (External) to Everyone:	of course
+05/27/2020    13:51:35 PM    from BRIAN GILLIKIN (IBM) to Everyone:	sounds good
+05/27/2020    13:51:37 PM    from Hibatallah Kabbaj (External) to Everyone:	yess
+05/27/2020    13:53:11 PM    from BRIAN GILLIKIN (IBM) to Everyone:	let's keep going
+05/27/2020    13:53:11 PM    from Lee Zhang (IBM) to Everyone:	no
+05/27/2020    13:53:25 PM    from JEREMY NILMEIER (IBM) to Everyone:	I have to break at 10-1030
+05/27/2020    13:53:40 PM    from Susan Malaika (IBM) to Everyone:	----> Recording stopped
+05/27/2020    13:54:07 PM    from KUMAR HEMANT (IBM) to Everyone:	When can earn badge ?
+05/27/2020    13:54:13 PM    from Susan Malaika (IBM) to Everyone:	Restart at 9am US Eastern 
+05/27/2020    13:54:21 PM    from Shahir Daya (IBM) to Everyone:	I have to step away from 9 to 10 EST for a meeting. I'll be back at 10.  I'll have to catch up with the recording I guess.
+05/27/2020    13:54:56 PM    from KUMAR HEMANT (IBM) to Everyone:	once the contribution is made ot this training is complteed?
+05/27/2020    13:54:56 PM    from Susan Malaika (IBM) to Everyone:	Kumar - you can earn a badge when you make a contribution
+05/27/2020    13:55:11 PM    from KUMAR HEMANT (IBM) to Everyone:	ok, got it. thank you
+05/27/2020    13:56:33 PM    from Susan Malaika (IBM) to Everyone:	Kumar - the sessions today (about 4 hours) will teach how to make a contribution to  Egeria - 
+05/27/2020    14:03:43 PM    from Susan Malaika (IBM) to Everyone:	--------------> Recording started - making a contribution to egeria -------------> https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/egeria-dojo-day-2-3-contribution-to-egeria.html
+05/27/2020    14:52:43 PM    from Ayoub Rihi (External) to Everyone:	yes
+05/27/2020    14:52:50 PM    from RAHUL AKOLKAR (IBM) to Everyone:	yes - shortly (on another call)
+05/27/2020    14:52:55 PM    from BRIAN GILLIKIN (IBM) to Everyone:	yes
+05/27/2020    14:54:19 PM    from Ayoub Rihi (External) to Everyone:	how can our changes be commited to the origin  repository of egeria(not only on the clone)
+05/27/2020    14:54:54 PM    from JEREMY NILMEIER (IBM) to Everyone:	ok
+05/27/2020    14:55:41 PM    from JEREMY NILMEIER (IBM) to Everyone:	Just add a sentence of text?
+05/27/2020    14:56:10 PM    from Nigel Jones (IBM) to Everyone:	yes anything is fine - just showing the review process. It also needs the license text
+05/27/2020    14:57:03 PM    from JEREMY NILMEIER (IBM) to Everyone:	Sorry...where is the licence text again?  The Apache Terms?
+05/27/2020    14:58:06 PM    from Shahir Daya (IBM) to Everyone:	HI, sorry to ask this. What page should I be working on?
+05/27/2020    14:58:17 PM    from Shahir Daya (IBM) to Everyone:	I just rejoined
+05/27/2020    14:58:28 PM    from Mandy Chessell (IBM) to Everyone:	<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+<!-- Copyright Contributors to the ODPi Egeria project 2020. -->
+----
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+Copyright Contributors to the ODPi Egeria project.
+05/27/2020    14:58:54 PM    from Mandy Chessell (IBM) to Everyone:	https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/egeria-dojo-day-2-3-contribution-to-egeria.html
+05/27/2020    14:59:09 PM    from Shahir Daya (IBM) to Everyone:	Thank You
+05/27/2020    14:59:51 PM    from Ayoub Rihi (External) to Everyone:	how can our changes be committed to the origin repository of egeria(not only on the clone)?
+05/27/2020    15:00:39 PM    from JEREMY NILMEIER (IBM) to Everyone:	I have to break for another meeting will return at 1030
+05/27/2020    15:01:57 PM    from Ayoub Rihi (External) to Everyone:	thank you
+05/27/2020    15:09:51 PM    from Shahir Daya (IBM) to Everyone:	Do you have to create a branch before you load the project into IntelliJ?  Why is that called out?
+05/27/2020    15:10:46 PM    from Mandy Chessell (IBM) to Everyone:	I tend to create the branch before going to intellij to save switching windows - but does not need to be done first
+05/27/2020    15:10:49 PM    from William Bittles (External) to Everyone:	You need to make a branch to track any changes that you make, you don't need one just to browse th eproject
+05/27/2020    15:13:37 PM    from Nigel Jones (IBM) to Everyone:	As above - you can make the branch at any time, and from command line or GUI but as Mandy, I tend to do that before I make changes. 
+05/27/2020    15:27:35 PM    from Shahir Daya (IBM) to Everyone:	What kind of a code change are we making for this contribution/pr?  I'm doing the mvn clean install in IntelliJ right now.
+05/27/2020    15:30:40 PM    from Nigel Jones (IBM) to Everyone:	The idea of this code change was just to help you understand the process. We suggest making a simple markdown file .
+05/27/2020    15:31:05 PM    from Nigel Jones (IBM) to Everyone:	you will not need to do a full build for the markdown -- but I think we'll talk more about code & testing in next section
+05/27/2020    15:31:40 PM    from Shahir Daya (IBM) to Everyone:	ok thanks
+05/27/2020    15:33:50 PM    from Susan Malaika (IBM) to Everyone:	-----------------> Recording ----> Testing, Types of contributions, how to get a badge --------Mandy---> 
+05/27/2020    15:47:37 PM    from JEREMY NILMEIER (IBM) to Everyone:	should we be building now
+05/27/2020    15:48:17 PM    from Shahir Daya (IBM) to Everyone:	Do any of the developers Pair Program?
+05/27/2020    15:48:31 PM    from Shahir Daya (IBM) to Everyone:	Also, is TDD used?
+05/27/2020    15:49:40 PM    from William Bittles (External) to Everyone:	git commit  -s --amend 
+05/27/2020    15:55:09 PM    from Shahir Daya (IBM) to Everyone:	how many opensource projects do people usually work on?  the size of some of them warrant a lot of. dedication and passion for the particular space. Thoughts? Also, how much time is reasonable for a part time contributor?
+05/27/2020    16:14:33 PM    from BRIAN GILLIKIN (IBM) to Everyone:	do you have a wish list of connectors you'd like?
+05/27/2020    16:18:53 PM    from Shahir Daya (IBM) to Everyone:	call it a day and look forward to day 3 :)
+05/27/2020    16:20:50 PM    from Shahir Daya (IBM) to Everyone:	Thank You for a great Day 2!
+05/27/2020    16:20:54 PM    from Hibatallah Kabbaj (External) to Everyone:	thank you
+05/27/2020    16:20:57 PM    from Yogesh Singh (IBM) to Everyone:	Thank You
+05/27/2020    16:21:01 PM    from JEREMY NILMEIER (IBM) to Everyone:	thank you!
+05/27/2020    16:21:06 PM    from BRIAN GILLIKIN (IBM) to Everyone:	Thanks!
+05/27/2020    16:21:22 PM    from Ayoub Rihi (External) to Everyone:	I think the project is actually need a times to read documentation the code ... and then think about when we can be placed  to do the contribution 
+05/27/2020    16:22:29 PM    from Shahir Daya (IBM) to Everyone:	Nicely structured to follow the steps to make a contribution i.e. the mechanics
+05/27/2020    16:22:36 PM    from Ayoub Rihi (External) to Everyone:	thank you so much
+05/27/2020    16:23:04 PM    from Shahir Daya (IBM) to Everyone:	Lots of good information and a lot to learn after the dojo is done. But good guidance for us to be successful. 
