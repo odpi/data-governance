@@ -3,7 +3,7 @@
 
 # ODPi Egeria Webinars
 
-From time to time the ODPi runs virtual webinars on open metadata and governance.  
+From time to time the ODPi runs webinars on open metadata and governance.  
 Each webinar focuses on a specific audience or issue.  The material for our webinars is stored below
 along with links to the recordings.  
 Links to replays of past webinars can be found on the marketing page for Egeria: 

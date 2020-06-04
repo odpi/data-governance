@@ -11,8 +11,12 @@ This folder hosts the charts from the live session.
 
 * [Registration](https://www.eventbrite.com/e/egeria-dojo-live-tickets-105972970006)
 * [Agenda](https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/)
-* [Recordings and Chat](https://community.ibm.com/community/user/datascience/blogs/susan-malaika/2020/05/28/odpi-egeria-dojo-live-become-an-open-sourc-contrib)
+* [Blog post about event](https://community.ibm.com/community/user/datascience/blogs/susan-malaika/2020/05/28/odpi-egeria-dojo-live-become-an-open-sourc-contrib)
 
+Recordings and chat:
+* [Day 1](Day-1)
+* [Day 2](Day-2)
+* [Day 3](Day-3)
 
 
 ----

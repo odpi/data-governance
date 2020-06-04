@@ -10,8 +10,7 @@ In this presentation, we will cover how open metadata can increase the effective
 protection of the data lake and avoid it running into a mighty data swamp. 
 
 * Link to event [advertising and registration](https://www.odpi.org/event/webinar-data-lake-design-with-egeria)
-
-Charts and recording to follow ...
+* Link to recording to follow ...
 
 ----
 Return to [Webinar list](..)

@@ -1,0 +1,100 @@
+05/28/2020    12:05:58 PM    from Shahir Daya (IBM) to Everyone:	I like the breaks
+05/28/2020    12:06:06 PM    from Shahir Daya (IBM) to Everyone:	get to catch up on work
+05/28/2020    12:06:08 PM    from BRIAN GILLIKIN (IBM) to Everyone:	Let's keep going
+05/28/2020    12:06:18 PM    from Shahir Daya (IBM) to Everyone:	I have a 9 to 10:30 EST meeting with a client
+05/28/2020    12:06:22 PM    from Hibatallah Kabbaj (External) to Everyone:	keep going
+05/28/2020    12:07:38 PM    from Susan Malaika (IBM) to Everyone:	https://community.ibm.com/community/user/datascience/blogs/susan-malaika/2020/05/28/odpi-egeria-dojo-live-become-an-open-sourc-contrib
+05/28/2020    12:10:15 PM    from Mandy Chessell (IBM) to Everyone:	This is the session page https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/egeria-dojo-day-3-1-becoming-an-advocate.html
+05/28/2020    12:39:38 PM    from Susan Malaika (IBM) to Everyone:	Can the non-ibmers please check if they can access this link ? https://ibm.box.com/s/bvg2busm9zqnkmp4nlzjkgao67dck0zw
+05/28/2020    12:40:00 PM    from Ayoub Rihi (External) to Everyone:	yes
+05/28/2020    12:40:05 PM    from Hibatallah Kabbaj (External) to Everyone:	yess
+05/28/2020    12:40:48 PM    from Susan Malaika (IBM) to Everyone:	Another question - Can the non-IBMers access this link? https://ibm.ent.box.com/folder/114197482489 ?
+05/28/2020    12:44:08 PM    from Ayoub Rihi (External) to Everyone:	yes
+05/28/2020    12:44:18 PM    from Susan Malaika (IBM) to Everyone:	Awesome
+05/28/2020    12:44:39 PM    from Susan Malaika (IBM) to Everyone:	Thank Ayoub and Hibatallah 
+05/28/2020    12:45:24 PM    from Hibatallah Kabbaj (External) to Everyone:	yes
+05/28/2020    12:45:50 PM    from Ayoub Rihi (External) to Everyone:	you welcome
+05/28/2020    12:55:19 PM    from Susan Malaika (IBM) to Everyone:	https://community.ibm.com/community/user/datascience/blogs/susan-malaika/2020/05/28/odpi-egeria-dojo-live-become-an-open-sourc-contrib
+05/28/2020    12:58:03 PM    from Ayoub Rihi (External) to Everyone:	yes from linkedin 
+05/28/2020    12:58:17 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	I'm from Spain, IBM
+05/28/2020    12:59:14 PM    from Hibatallah Kabbaj (External) to Everyone:	yess
+05/28/2020    12:59:16 PM    from Ayoub Rihi (External) to Everyone:	^^
+05/28/2020    12:59:58 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	thanks
+05/28/2020    13:03:14 PM    from Ayoub Rihi (External) to Everyone:	yes
+05/28/2020    13:03:20 PM    from Hibatallah Kabbaj (External) to Everyone:	great
+05/28/2020    13:03:50 PM    from Shahir Daya (IBM) to Everyone:	Twitter handles to follow:
+https://twitter.com/MoyaBrannan
+https://twitter.com/MandyChessell
+https://twitter.com/ODPiOrg
+https://twitter.com/planetf1
+https://twitter.com/sumalaika
+Any more?
+
+05/28/2020    13:04:35 PM    from Susan Malaika (IBM) to Everyone:	maybe John Mertic?
+05/28/2020    13:12:43 PM    from Susan Malaika (IBM) to Everyone:	I added the twitter list to the blog https://community.ibm.com/community/user/datascience/blogs/susan-malaika/2020/05/28/odpi-egeria-dojo-live-become-an-open-sourc-contrib
+05/28/2020    13:12:59 PM    from JEREMY NILMEIER (IBM) to Everyone:	Am I setting upstream correctly?  I get the following message when I use git pull upstream master
+05/28/2020    13:13:00 PM    from Susan Malaika (IBM) to Everyone:	Thank you Shahir
+05/28/2020    13:13:30 PM    from JEREMY NILMEIER (IBM) to Everyone:	fatal: 'github.com/odpi/egeria.git' does not appear to be a git repository
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights
+and the repository exists.
+05/28/2020    13:21:35 PM    from Nigel Jones (IBM) to Everyone:	this was because upstream wasn't set correctly.
+05/28/2020    13:21:42 PM    from Nigel Jones (IBM) to Everyone:	git remote -v will show current remotes configured
+05/28/2020    13:21:45 PM    from Nigel Jones (IBM) to Everyone:	in this case we did
+05/28/2020    13:21:51 PM    from Nigel Jones (IBM) to Everyone:	git remote remove upstream
+05/28/2020    13:22:00 PM    from Nigel Jones (IBM) to Everyone:	git remote add upstream https://github.com/odpi/egeria
+05/28/2020    13:22:20 PM    from Nigel Jones (IBM) to Everyone:	(the original add on day 1 had been done incorrectly... the https:// was missing .. )
+05/28/2020    13:22:28 PM    from Susan Malaika (IBM) to Everyone:	---------------------> Becoming maintainer recording started
+05/28/2020    13:29:21 PM    from Ayoub Rihi (External) to Everyone:	PRs meaning ?
+05/28/2020    13:29:35 PM    from Shahir Daya (IBM) to Everyone:	"best role I've ever had" says it all!  Thanks
+05/28/2020    13:36:45 PM    from Susan Malaika (IBM) to Everyone:	PR = Pull Request
+05/28/2020    13:36:57 PM    from Ayoub Rihi (External) to Everyone:	oh thank you 
+05/28/2020    13:44:16 PM    from Ayoub Rihi (External) to Everyone:	what are the criteria that  assess  a confirmed maintainer? 
+05/28/2020    13:45:37 PM    from Ayoub Rihi (External) to Everyone:	thank you
+05/28/2020    13:47:14 PM    from Susan Malaika (IBM) to Everyone:	----------> End of maintainer session
+05/28/2020    13:48:13 PM    from Susan Malaika (IBM) to Everyone:	Architecture session (9 major principles)  restarts at 2:15pm UK ; 9:15 US eastern
+05/28/2020    13:48:48 PM    from Shahir Daya (IBM) to Everyone:	I. will miss it...  I have a client call from 9an to 10:30am EST. I will listen to the recording.  Just wanted to take this opportunity to say THANK YOU for a great few days! Looking forward to collaborating with this and the larger team.
+05/28/2020    13:51:57 PM    from Susan Malaika (IBM) to Everyone:	Thank you Shahir
+05/28/2020    14:17:18 PM    from Susan Malaika (IBM) to Everyone:	Time to restart 
+05/28/2020    14:17:19 PM    from Susan Malaika (IBM) to Everyone:	?
+05/28/2020    14:20:21 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	could you share the link to the ppt? thanks
+05/28/2020    14:34:16 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	thanks
+05/28/2020    14:40:59 PM    from Ayoub Rihi (External) to Everyone:	yes
+05/28/2020    14:43:50 PM    from BRIAN GILLIKIN (IBM) to Everyone:	yes
+05/28/2020    14:43:59 PM    from Yogesh (External) to Everyone:	Definitely yes
+05/28/2020    14:44:01 PM    from BRIAN GILLIKIN (IBM) to Everyone:	as well as share the videos with some others
+05/28/2020    14:44:12 PM    from Ayoub Rihi (External) to Everyone:	it is an interesting project
+05/28/2020    14:45:37 PM    from Susan Malaika (IBM) to Everyone:	The videos can be access via this blog  https://community.ibm.com/community/user/datascience/blogs/susan-malaika/2020/05/28/odpi-egeria-dojo-live-become-an-open-sourc-contrib
+05/28/2020    15:01:02 PM    from Susan Malaika (IBM) to Everyone:	Dropping now
+05/28/2020    15:01:08 PM    from Susan Malaika (IBM) to Everyone:	I made mandy the host
+05/28/2020    15:01:25 PM    from Susan Malaika (IBM) to Everyone:	please remind her to stop recording when she is ready 
+05/28/2020    15:01:29 PM    from Susan Malaika (IBM) to Everyone:	thank you all
+05/28/2020    15:01:33 PM    from Susan Malaika (IBM) to Everyone:	happy dojo
+05/28/2020    15:01:40 PM    from Hibatallah Kabbaj (External) to Everyone:	thank you susan
+05/28/2020    15:01:55 PM    from Ayoub Rihi (External) to Everyone:	thank you so much
+05/28/2020    15:04:56 PM    from Ayoub Rihi (External) to Everyone:	yes
+05/28/2020    15:04:57 PM    from Hibatallah Kabbaj (External) to Everyone:	yess
+05/28/2020    15:34:10 PM    from Ayoub Rihi (External) to Everyone:	THANK YOU 
+05/28/2020    15:34:29 PM    from BRIAN GILLIKIN (IBM) to Everyone:	thanks Mandy so much
+05/28/2020    15:34:47 PM    from JEREMY NILMEIER (IBM) to Everyone:	thank you great overview!
+05/28/2020    15:34:51 PM    from Ayoub Rihi (External) to Everyone:	can you please share with us the ppt
+05/28/2020    15:35:17 PM    from Yogesh (External) to Everyone:	Missed parts of day 1
+05/28/2020    15:35:18 PM    from JEREMY NILMEIER (IBM) to Everyone:	possibly review spark connectors
+05/28/2020    15:35:21 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	yes.. distributed graph model is a really interesting concept
+05/28/2020    15:35:23 PM    from Yogesh (External) to Everyone:	Wil start again
+05/28/2020    15:35:56 PM    from BRIAN GILLIKIN (IBM) to Everyone:	working with David on the UI as well as scheming with Trinette about connectors; reviewing the demos from day 2
+05/28/2020    15:36:56 PM    from BRIAN GILLIKIN (IBM) to Everyone:	exactly. thanks!
+05/28/2020    15:40:01 PM    from Ayoub Rihi (External) to Everyone:	about the hand on labs there are some changes on egeria plateform not yet sync with the notebooks
+05/28/2020    15:40:47 PM    from Ayoub Rihi (External) to Everyone:	ok
+05/28/2020    15:41:35 PM    from Ayoub Rihi (External) to Everyone:	yeah i will share that 
+05/28/2020    15:42:35 PM    from Ayoub Rihi (External) to Everyone:	about datascientist role in the project
+05/28/2020    15:42:46 PM    from Ayoub Rihi (External) to Everyone:	can i have some clarifications ?
+05/28/2020    15:43:14 PM    from Yogesh (External) to Everyone:	Probably some more examples around Metadata governance during the introduction.
+05/28/2020    15:46:22 PM    from Yogesh (External) to Everyone:	Yes
+05/28/2020    15:49:54 PM    from JEREMY NILMEIER (IBM) to Everyone:	Great dojo thank you team!
+05/28/2020    15:50:08 PM    from Ayoub Rihi (External) to Everyone:	thank you all 
+05/28/2020    15:50:11 PM    from Yogesh (External) to Everyone:	Thank you..
+05/28/2020    15:50:13 PM    from BRIAN GILLIKIN (IBM) to Everyone:	thanks all!
+05/28/2020    15:50:17 PM    from Ayoub Rihi (External) to Everyone:	make sure to stop the record
+05/28/2020    15:50:18 PM    from Hibatallah Kabbaj (External) to Everyone:	great sessions thank youuu
+05/28/2020    15:50:29 PM    from FRANCISCO JAVIER CANO BAILEN (IBM) to Everyone:	thanks a lot!
