@@ -11,7 +11,7 @@
 05/26/2020    12:12:13 PM    from Susan Malaika (IBM) to Everyone:	Yes - Please make sure you are in the slack  Slack https://slack.odpi.org/ Channel #egeria-dojo-live	
 05/26/2020    12:15:36 PM    from Susan Malaika (IBM) to Everyone:	Mandy is showing https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/	
 05/26/2020    12:18:01 PM    from Susan Malaika (IBM) to Everyone:	Now https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/egeria-dojo-day-1-1-introduction.html 	
-05/26/2020    12:19:26 PM    from Susan Malaika (IBM) to Everyone:	Slides here https://github.com/odpi/data-governance/blob/master/workshops/may-2020/egeria-dojo-day-1-1-introduction.pptx	
+05/26/2020    12:19:26 PM    from Susan Malaika (IBM) to Everyone:	Slides here https://github.com/odpi/data-governance/blob/main/workshops/may-2020/egeria-dojo-day-1-1-introduction.pptx
 05/26/2020    12:23:53 PM    from Susan Malaika (IBM) to Everyone:	Repasting : Please make sure you are in the slack https://slack.odpi.org/ Channel #egeria-dojo-live	
 05/26/2020    12:26:54 PM    from Ayoub RIHI (External) to Everyone:	We can't see the shared screen	
 05/26/2020    12:28:26 PM    from Susan Malaika (IBM) to Everyone:	@yaoub - can you see the screen now?	
@@ -21,7 +21,7 @@
 05/26/2020    12:30:24 PM    from Ayoub RIHI (External) to Everyone:	Its ok now thank you!	
 05/26/2020    12:33:39 PM    from Susan Malaika (IBM) to Everyone:	Good @ayoub 	
 05/26/2020    12:34:08 PM    from Susan Malaika (IBM) to Everyone:	This is what Mandy is sharing  https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/	
-05/26/2020    12:34:31 PM    from Susan Malaika (IBM) to Everyone:	Presentation  https://github.com/odpi/data-governance/blob/master/workshops/may-2020/egeria-dojo-day-1-1-introduction.pptx	
+05/26/2020    12:34:31 PM    from Susan Malaika (IBM) to Everyone:	Presentation  https://github.com/odpi/data-governance/blob/main/workshops/may-2020/egeria-dojo-day-1-1-introduction.pptx
 05/26/2020    12:47:45 PM    from Susan Malaika (IBM) to Everyone:	I think we are here now https://egeria.odpi.org/open-metadata-resources/open-metadata-tutorials/egeria-dojo/egeria-dojo-day-1-2-project-introduction.html	
 05/26/2020    12:48:52 PM    from Sagarika Mukesh (IBM) to Everyone:	No metadata	
 05/26/2020    12:48:54 PM    from TRINETTE BROWNHILL (IBM) to Everyone:	metadata - yes	
