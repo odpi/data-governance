@@ -120,8 +120,8 @@ is used.
 
 ## Further information
 * [Defining a glossary scenario](../coco-pharmaceuticals/scenarios/defining-a-glossary/README.md)
-* [Open metadata types for a glossary](https://github.com/odpi/egeria/blob/master/open-metadata-publication/website/open-metadata-types/Area-3-models.md)
-* [Subject Area OMAS API for defining and storing information](https://github.com/odpi/egeria/blob/master/open-metadata-implementation/access-services/subject-area/README.md)
+* [Open metadata types for a glossary](https://github.com/odpi/egeria/blob/main/open-metadata-publication/website/open-metadata-types/Area-3-models.md)
+* [Subject Area OMAS API for defining and storing information](https://github.com/odpi/egeria/blob/main/open-metadata-implementation/access-services/subject-area/README.md)
 ----
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
 Copyright Contributors to the ODPi Egeria project.

@@ -3,7 +3,7 @@
 
 # Faith Broker - HR Director and Privacy Officer
 
-<img src="https://raw.githubusercontent.com/odpi/data-governance/master/docs/coco-pharmaceuticals/personas/faith-broker.png" style="float:left">
+<img src="https://raw.githubusercontent.com/odpi/data-governance/main/docs/coco-pharmaceuticals/personas/faith-broker.png" style="float:left">
 
 Age: 35
 
